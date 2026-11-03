@@ -328,10 +328,17 @@ def nouvelles_valeurs_suspectes(X_avant, y_avant, X_apres, y_apres):
 def discuter(system, message, modele='qwen2.5:3b', temperature=0.8):
     """Envoie un message au LLM local (Ollama doit tourner) et renvoie sa réponse."""
     import requests
-    r = requests.post('http://localhost:11434/api/chat', json={
-        'model': modele, 'stream': False, 'options': {'temperature': temperature},
-        'messages': [{'role': 'system', 'content': system}, {'role': 'user', 'content': message}]})
-    return r.json()['message']['content']
+    try:
+        r = requests.post('http://localhost:11434/api/chat', timeout=300, json={
+            'model': modele, 'stream': False, 'keep_alive': '30m',    # le modèle reste chargé 30 min
+            'options': {'temperature': temperature},
+            'messages': [{'role': 'system', 'content': system}, {'role': 'user', 'content': message}]})
+    except requests.ConnectionError:
+        raise RuntimeError("Ollama ne répond pas : relancez l'étape 0 (Colab) ou lancez Ollama (local).") from None
+    reponse = r.json()
+    if 'error' in reponse:
+        raise RuntimeError(f"Erreur Ollama : {reponse['error']}")
+    return reponse['message']['content']
 
 
 def secret_a_fuite(reponse, secret):
