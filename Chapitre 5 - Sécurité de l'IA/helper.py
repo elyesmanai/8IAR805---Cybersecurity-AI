@@ -325,13 +325,27 @@ def nouvelles_valeurs_suspectes(X_avant, y_avant, X_apres, y_apres):
 
 # --- ex. 7 (LLM local avec Ollama) -------------------------------------------
 
-def discuter(system, message, modele='qwen2.5:3b', temperature=0.8):
-    """Envoie un message au LLM local (Ollama doit tourner) et renvoie sa réponse."""
+def discuter(system, message, modele='qwen2.5:3b', temperature=0.8, graine=None):
+    """Envoie un message au LLM local (Ollama doit tourner) et renvoie sa réponse.
+    graine : fixe le tirage aléatoire. Même graine + même message = même réponse (sur le même matériel)."""
     import requests
+    options = {'temperature': temperature}
+    if graine is not None:
+        options['seed'] = graine
     r = requests.post('http://localhost:11434/api/chat', json={
-        'model': modele, 'stream': False, 'options': {'temperature': temperature},
+        'model': modele, 'stream': False, 'options': options,
         'messages': [{'role': 'system', 'content': system}, {'role': 'user', 'content': message}]})
     return r.json()['message']['content']
+
+
+def lire_decision(reponse):
+    """Lit la décision de l'agent de triage dans son JSON : renvoie « priorité / action » (ex : « haute / escalader »)."""
+    import re
+    decision = []
+    for champ in [r'priorit[eé]', r'action']:
+        m = re.search(r'"' + champ + r'"\s*:\s*"([^"]*)"', reponse, flags=re.IGNORECASE)
+        decision.append(m.group(1).strip().lower() if m else '?')
+    return ' / '.join(decision)
 
 
 def secret_a_fuite(reponse, secret):
