@@ -1,0 +1,5 @@
+torch==2.5.1
+transformers==4.36.0
+ray==2.6.0
+ultralytics==8.3.41
+scikit-learn==1.4.0
