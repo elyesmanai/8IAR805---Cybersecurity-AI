@@ -1,0 +1,642 @@
+[
+ {
+  "patient_id": "fd51467b-6db3-bca2-66fc-f19eeaaa7e33",
+  "sexe": "male",
+  "pii": {
+   "PATIENT": "Abram Brekke",
+   "DATE_NAISSANCE": "1966-03-01",
+   "SSN": "999-70-6180",
+   "MRN": "fd51467b-6db3-bca2-66fc-f19eeaaa7e33",
+   "TELEPHONE": "555-643-7528",
+   "ADRESSE": "755 Hilll Haven Suite 43",
+   "VILLE": "Medford",
+   "CODE_POSTAL": "02145",
+   "MEDECIN": "Elijah White"
+  },
+  "texte": "MELROSE FAMILY OPTICIANS LLC\nPROGRESS NOTE\nPatient: Abram Brekke    DOB: 1966-03-01    Sex: male\nMRN: fd51467b-6db3-bca2-66fc-f19eeaaa7e33    SSN: 999-70-6180\nAddress: 755 Hilll Haven Suite 43, Medford, MA 02145    Phone: 555-643-7528\nAttending: Dr. Elijah White\n\n2024-06-18\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nAbram is a 58 year-old nonhispanic white male. Patient has a history of gingival disease (disorder), part-time employment (finding), medication review due (situation), full-time employment (finding), acute viral pharyngitis (disorder), victim of intimate partner abuse (finding), gingivitis (disorder), social isolation (finding), stress (finding).\n\n# Social History\nPatient is single. Patient quit smoking at age 20.\n Patient identifies as heterosexual.\n\nPatient comes from a high socioeconomic background.\n Patient has a high school education.\nPatient currently has UnitedHealthcare.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nlisinopril 10 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with full-time employment (finding), unhealthy alcohol drinking behavior (finding). \n\n\n## Plan\nPatient was given the following immunizations: influenza, split virus, trivalent, pf. \nThe following procedures were conducted:\n- medication reconciliation (procedure)\n- assessment of health and social care needs (procedure)\n- assessment of anxiety (procedure)\n- depression screening (procedure)\n- depression screening (procedure)\n- depression screening using patient health questionnaire nine item score (procedure)\n- assessment of substance use (procedure)\n- assessment using alcohol use disorders identification test - consumption (procedure)\nThe following lab reports were completed:\n- generalized anxiety disorder 7 item (gad-7)\n- patient health questionnaire 2 item (phq-2) [reported]\n- phq-9 quick depression assessment panel [reported.phq]\n- alcohol use disorder identification test - consumption [audit-c]\nThe patient was prescribed the following medications:\n- lisinopril 10 mg oral tablet"
+ },
+ {
+  "patient_id": "504af6a2-451e-d45e-cbc9-c8d7e3a34f2f",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Albina Pagac",
+   "DATE_NAISSANCE": "2012-08-22",
+   "SSN": "999-27-6854",
+   "MRN": "504af6a2-451e-d45e-cbc9-c8d7e3a34f2f",
+   "TELEPHONE": "555-590-5012",
+   "ADRESSE": "934 Corwin Stravenue",
+   "VILLE": "Belmont",
+   "CODE_POSTAL": "02472",
+   "MEDECIN": "Chantell Krajcik"
+  },
+  "texte": "FRANCISCAN HOSPITAL FOR CHILDREN INC\nPROGRESS NOTE\nPatient: Albina Pagac    DOB: 2012-08-22    Sex: female\nMRN: 504af6a2-451e-d45e-cbc9-c8d7e3a34f2f    SSN: 999-27-6854\nAddress: 934 Corwin Stravenue, Belmont, MA 02472    Phone: 555-590-5012\nAttending: Dr. Chantell Krajcik\n\n2026-03-25\n\n# Chief Complaint\n- Itching\n- Nasal Discharge\n\n\n# History of Present Illness\nAlbina is a 13 year-old nonhispanic white female. Patient has a history of streptococcal sore throat (disorder), acute bronchitis (disorder), medication review due (situation), acute viral pharyngitis (disorder), leaking dental filling (finding), gingivitis (disorder), otitis media (disorder), loose dental filling (finding).\n\n# Social History\n Patient has never smoked.\n\n\nPatient comes from a middle socioeconomic background.\n\nPatient currently has Medicare.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\npenicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; hydrocortisone 10 mg/ml topical cream; amoxicillin 500 mg oral tablet; naproxen sodium 220 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with infection of tooth (disorder). \n\n\n## Plan\n\nThe following procedures were conducted:\n- dental consultation and report (procedure)\n- dental care (regime/therapy)\n- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)\n- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)\n- dental surgical procedure (procedure)\n- dental application of desensitizing medicament (procedure)\n- simple extraction of tooth (procedure)\n- postoperative care for dental procedure (regime/therapy)\n- examination of gingivae (procedure)\n- dental fluoride treatment (procedure)\n- oral health education (procedure)\nThe patient was prescribed the following medications:\n- sodium fluoride 0.0272 mg/mg oral gel"
+ },
+ {
+  "patient_id": "ca4b7b2c-21a2-ec9e-5b86-d9fad9d45de0",
+  "sexe": "male",
+  "pii": {
+   "PATIENT": "Alexander Hegmann",
+   "DATE_NAISSANCE": "1991-01-06",
+   "SSN": "999-81-8210",
+   "MRN": "ca4b7b2c-21a2-ec9e-5b86-d9fad9d45de0",
+   "TELEPHONE": "555-940-1438",
+   "ADRESSE": "425 Bins Mall Apt 70",
+   "VILLE": "Milford",
+   "CODE_POSTAL": "01757",
+   "MEDECIN": "Sam Rippin"
+  },
+  "texte": "MILFORD REGIONAL MEDICAL CENTER\nPROGRESS NOTE\nPatient: Alexander Hegmann    DOB: 1991-01-06    Sex: male\nMRN: ca4b7b2c-21a2-ec9e-5b86-d9fad9d45de0    SSN: 999-81-8210\nAddress: 425 Bins Mall Apt 70, Milford, MA 01757    Phone: 555-940-1438\nAttending: Dr. Sam Rippin\n\n2021-04-18\n\n# Chief Complaint\n- Chest Pressure\n- Shortness of Breath\n\n\n# History of Present Illness\nAlexander is a 30 year-old nonhispanic white male. Patient has a history of part-time employment (finding), acute bronchitis (disorder), medication review due (situation), limited social contact (finding), full-time employment (finding), misuses drugs (finding), loose dental filling (finding), stress (finding).\n\n# Social History\nPatient is married. Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient has a high school education.\nPatient currently has UnitedHealthcare.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nacetaminophen 325 mg oral tablet; tramadol hydrochloride 50 mg oral tablet; budesonide 0.25 mg/ml inhalation suspension; albuterol 0.21 mg/ml inhalation solution; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with medication review due (situation), victim of intimate partner abuse (finding), gingivitis (disorder). \n\n\n## Plan\nPatient was given the following immunizations: influenza, split virus, trivalent, pf. \nThe following procedures were conducted:\n- medication reconciliation (procedure)\n- assessment of health and social care needs (procedure)\n- assessment of anxiety (procedure)\n- screening for domestic abuse (procedure)\n- depression screening (procedure)\n- depression screening (procedure)\n- assessment of substance use (procedure)\n- assessment using alcohol use disorders identification test - consumption (procedure)\n- patient referral for dental care (procedure)\nThe following lab reports were completed:\n- lipid panel with direct ldl - serum or plasma\n- generalized anxiety disorder 7 item (gad-7)\n- humiliation, afraid, rape, and kick questionnaire [hark]\n- patient health questionnaire 2 item (phq-2) [reported]\n- alcohol use disorder identification test - consumption [audit-c]\nThe patient was prescribed the following medications:\n- budesonide 0.25 mg/ml inhalation suspension\n- tramadol hydrochloride 50 mg oral tablet\n- albuterol 0.21 mg/ml inhalation solution"
+ },
+ {
+  "patient_id": "815ff645-c396-834b-d0ee-0620a11710cf",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Althea Welch",
+   "DATE_NAISSANCE": "2005-12-26",
+   "SSN": "999-87-8335",
+   "MRN": "815ff645-c396-834b-d0ee-0620a11710cf",
+   "TELEPHONE": "555-602-5892",
+   "ADRESSE": "795 Gislason Boulevard Unit 18",
+   "VILLE": "Somerville",
+   "CODE_POSTAL": "02144",
+   "MEDECIN": "Ricky Little"
+  },
+  "texte": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC\nPROGRESS NOTE\nPatient: Althea Welch    DOB: 2005-12-26    Sex: female\nMRN: 815ff645-c396-834b-d0ee-0620a11710cf    SSN: 999-87-8335\nAddress: 795 Gislason Boulevard Unit 18, Somerville, MA 02144    Phone: 555-602-5892\nAttending: Dr. Ricky Little\n\n2024-02-19\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nAlthea is a 18 year-old nonhispanic white female. Patient has a history of medication review due (situation), concussion injury of brain (disorder), concussion with loss of consciousness (disorder), viral sinusitis (disorder), gingivitis (disorder).\n\n# Social History\n Patient quit smoking at age 16.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient has completed some college courses.\nPatient currently has NO INSURANCE.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\n{21 (ethinyl estradiol 0.03 mg / levonorgestrel 0.15 mg oral tablet) / 7 (inert ingredients 1 mg oral tablet) } pack [levora 0.15/30 28 day]; acetaminophen 325 mg oral tablet [tylenol]; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with medication review due (situation), received higher education (finding), full-time employment (finding), stress (finding), gingivitis (disorder). \n\n\n## Plan\nPatient was given the following immunizations: influenza, split virus, trivalent, pf. \nThe following procedures were conducted:\n- assessment of health and social care needs (procedure)\n- screening for domestic abuse (procedure)\n- depression screening (procedure)\n- depression screening (procedure)\n- assessment of substance use (procedure)\n- screening for drug abuse (procedure)\n- patient referral for dental care (procedure)\nThe following lab reports were completed:\n- humiliation, afraid, rape, and kick questionnaire [hark]\n- patient health questionnaire 2 item (phq-2) [reported]\n- drug abuse screening test-10 [dast-10]\nThe patient was prescribed the following medications:\n- acetaminophen 325 mg oral tablet [tylenol]"
+ },
+ {
+  "patient_id": "abbe7ce8-820b-cb76-8d0c-02fe9d9decb0",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Angelyn Harris",
+   "DATE_NAISSANCE": "1965-11-10",
+   "SSN": "999-73-3588",
+   "MRN": "abbe7ce8-820b-cb76-8d0c-02fe9d9decb0",
+   "TELEPHONE": "555-855-2739",
+   "ADRESSE": "245 Pagac Vista Apt 31",
+   "VILLE": "Norwood",
+   "CODE_POSTAL": "02090",
+   "MEDECIN": "Guillermo Fay"
+  },
+  "texte": "NORWOOD HOSPITAL\nPROGRESS NOTE\nPatient: Angelyn Harris    DOB: 1965-11-10    Sex: female\nMRN: abbe7ce8-820b-cb76-8d0c-02fe9d9decb0    SSN: 999-73-3588\nAddress: 245 Pagac Vista Apt 31, Norwood, MA 02090    Phone: 555-855-2739\nAttending: Dr. Guillermo Fay\n\n2026-10-14\n\n# Chief Complaint\n- Frequent Urination\n- Tingling in Hands and Feet\n- Thirst\n- Hunger\n- Sleep Disturbances\n- Cognitive Difficulties\n- Fatigue\n\n\n# History of Present Illness\nAngelyn Kandra is a 60 year-old nonhispanic white female. Patient has a history of gingival disease (disorder), severe anxiety (panic) (finding), medication review due (situation), unemployed (finding), acute viral pharyngitis (disorder), viral sinusitis (disorder), victim of intimate partner abuse (finding), part-time employment (finding), acute bronchitis (disorder), limited social contact (finding), not in labor force (finding), primary dental caries (disorder), reports of violence in the environment (finding), full-time employment (finding), laceration - injury (disorder), gingivitis (disorder), laceration of thigh (disorder), loose dental filling (finding), stress (finding), social isolation (finding).\n\n# Social History\nPatient is single. Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient has completed some college courses.\nPatient currently has Medicare.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nlisinopril 10 mg oral tablet; acetaminophen 325 mg oral tablet; simvastatin 10 mg oral tablet; milnacipran hydrochloride 100 mg oral tablet; 24 hr metformin hydrochloride 500 mg extended release oral tablet; pregabalin 100 mg oral capsule; duloxetine 20 mg delayed release oral capsule; amlodipine 2.5 mg oral tablet; ibuprofen 200 mg oral tablet; insulin isophane, human 70 unt/ml / insulin, regular, human 30 unt/ml injectable suspension [humulin]; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with stress (finding), reports of violence in the environment (finding), gingivitis (disorder). \n\n\n## Plan\n\nThe following procedures were conducted:\n- assessment of health and social care needs (procedure)\n- assessment of anxiety (procedure)\n- screening for domestic abuse (procedure)\n- depression screening (procedure)\n- depression screening (procedure)\n- assessment of substance use (procedure)\n- assessment using alcohol use disorders identification test - consumption (procedure)\n- patient referral for dental care (procedure)\nThe following lab reports were completed:\n- basic metabolic 2000 panel - serum or plasma\n- urinalysis macro (dipstick) panel - urine\n- basic metabolic panel - blood\n- lipid panel with direct ldl - serum or plasma\n- generalized anxiety disorder 7 item (gad-7)\n- humiliation, afraid, rape, and kick questionnaire [hark]\n- patient health questionnaire 2 item (phq-2) [reported]\n- alcohol use disorder identification test - consumption [audit-c]\nThe patient was prescribed the following medications:\n- insulin isophane, human 70 unt/ml / insulin, regular, human 30 unt/ml injectable suspension [humulin]\n- 24 hr metformin hydrochloride 500 mg extended release oral tablet\n- lisinopril 10 mg oral tablet\n- amlodipine 2.5 mg oral tablet"
+ },
+ {
+  "patient_id": "254685ad-4f09-a8bf-bca9-85fafdfcf4c1",
+  "sexe": "male",
+  "pii": {
+   "PATIENT": "Antoine Jast",
+   "DATE_NAISSANCE": "2000-04-30",
+   "SSN": "999-36-2472",
+   "MRN": "254685ad-4f09-a8bf-bca9-85fafdfcf4c1",
+   "TELEPHONE": "555-117-5115",
+   "ADRESSE": "171 Zboncak Rest",
+   "VILLE": "Swansea",
+   "CODE_POSTAL": "00000",
+   "MEDECIN": "Quincy Larkin"
+  },
+  "texte": "VMD PRIMARY PROVIDERS OF RHODE ISLAND PC\nPROGRESS NOTE\nPatient: Antoine Jast    DOB: 2000-04-30    Sex: male\nMRN: 254685ad-4f09-a8bf-bca9-85fafdfcf4c1    SSN: 999-36-2472\nAddress: 171 Zboncak Rest, Swansea, MA 00000    Phone: 555-117-5115\nAttending: Dr. Quincy Larkin\n\n2025-07-06\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nAntoine is a 25 year-old nonhispanic white male. Patient has a history of gingival disease (disorder), injury of tendon of the rotator cuff of shoulder (disorder), part-time employment (finding), acute bronchitis (disorder), medication review due (situation), not in labor force (finding), full-time employment (finding), viral sinusitis (disorder), suspected disease caused by severe acute respiratory coronavirus 2 (situation), stress (finding).\n\n# Social History\n Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient has completed some college courses.\nPatient currently has Aetna.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nacetaminophen 325 mg oral tablet\n\n# Assessment and Plan\nPatient is presenting with part-time employment (finding), limited social contact (finding). \n\n\n## Plan\nPatient was given the following immunizations: influenza, split virus, trivalent, pf. \nThe following procedures were conducted:\n- assessment of health and social care needs (procedure)\n- assessment of anxiety (procedure)\n- screening for domestic abuse (procedure)\n- depression screening (procedure)\n- depression screening (procedure)\n- assessment of substance use (procedure)\n- assessment using alcohol use disorders identification test - consumption (procedure)\nThe following lab reports were completed:\n- basic metabolic panel - blood\n- generalized anxiety disorder 7 item (gad-7)\n- humiliation, afraid, rape, and kick questionnaire [hark]\n- patient health questionnaire 2 item (phq-2) [reported]\n- alcohol use disorder identification test - consumption [audit-c]"
+ },
+ {
+  "patient_id": "ef74fec9-541e-fab6-90f5-540f1e951194",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Ariadna Ramírez",
+   "DATE_NAISSANCE": "2017-06-13",
+   "SSN": "999-92-8527",
+   "MRN": "ef74fec9-541e-fab6-90f5-540f1e951194",
+   "TELEPHONE": "555-436-3956",
+   "ADRESSE": "494 Kunde Esplanade",
+   "VILLE": "Springfield",
+   "CODE_POSTAL": "01108",
+   "MEDECIN": "Daniela Balderas"
+  },
+  "texte": "THE SHRINERS HOSPITAL FOR CHILDREN\nPROGRESS NOTE\nPatient: Ariadna Ramírez    DOB: 2017-06-13    Sex: female\nMRN: ef74fec9-541e-fab6-90f5-540f1e951194    SSN: 999-92-8527\nAddress: 494 Kunde Esplanade, Springfield, MA 01108    Phone: 555-436-3956\nAttending: Dr. Daniela Balderas\n\n2020-05-26\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nAriadna is a 2 year-old hispanic white female. Patient has a history of fracture of forearm (disorder), medication review due (situation), fracture of bone (disorder).\n\n# Social History\n Patient has never smoked.\n\n\nPatient comes from a middle socioeconomic background.\n\nPatient currently has Medicaid.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nibuprofen 100 mg oral tablet\n\n# Assessment and Plan\nPatient is presenting with primary dental caries (disorder). \n\n\n## Plan\n\nThe following procedures were conducted:\n- dental consultation and report (procedure)\n- dental care (regime/therapy)\n- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)\n- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)\n- examination of gingivae (procedure)\n- application of composite dental filling material to dentin of tooth following fracture of tooth (procedure)\n- dental fluoride treatment (procedure)\n- oral health education (procedure)\nThe patient was prescribed the following medications:\n- sodium fluoride 0.0272 mg/mg oral gel"
+ },
+ {
+  "patient_id": "dacd76f7-1058-504d-47e9-c2cebc1ac573",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Arla Walter",
+   "DATE_NAISSANCE": "1994-04-15",
+   "SSN": "999-42-7428",
+   "MRN": "dacd76f7-1058-504d-47e9-c2cebc1ac573",
+   "TELEPHONE": "555-738-2990",
+   "ADRESSE": "542 Fay Common",
+   "VILLE": "Methuen",
+   "CODE_POSTAL": "01844",
+   "MEDECIN": "Gracia Schuster"
+  },
+  "texte": "GREATER LAWRENCE FAMILY HEALTH CENTER INC\nPROGRESS NOTE\nPatient: Arla Walter    DOB: 1994-04-15    Sex: female\nMRN: dacd76f7-1058-504d-47e9-c2cebc1ac573    SSN: 999-42-7428\nAddress: 542 Fay Common, Methuen, MA 01844    Phone: 555-738-2990\nAttending: Dr. Gracia Schuster\n\n2022-06-24\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nArla Maryann is a 28 year-old nonhispanic white female. Patient has a history of medication review due (situation), unemployed (finding), sterilization requested (situation), social isolation (finding).\n\n# Social History\nPatient is married. Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a high socioeconomic background.\n Patient has a high school education.\nPatient currently has Humana.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\n{24 (drospirenone 3 mg / ethinyl estradiol 0.02 mg oral tablet) / 4 (inert ingredients 1 mg oral tablet) } pack [yaz 28 day]; {5 (dienogest 2 mg / estradiol valerate 2 mg oral tablet) / 17 (dienogest 3 mg / estradiol valerate 2 mg oral tablet) / 2 (estradiol valerate 1 mg oral tablet) / 2 (estradiol valerate 3 mg oral tablet) / 2 (inert ingredients 1 mg oral tablet) } pack [natazia 28 day]\n\n# Assessment and Plan\nPatient is presenting with full-time employment (finding). \n\n\n## Plan\nPatient was given the following immunizations: influenza, split virus, trivalent, pf. \nThe following procedures were conducted:\n- medication reconciliation (procedure)\n- assessment of health and social care needs (procedure)\n- screening for domestic abuse (procedure)\n- depression screening (procedure)\n- depression screening (procedure)\n- assessment of substance use (procedure)\n- assessment using alcohol use disorders identification test - consumption (procedure)\nThe following lab reports were completed:\n- cbc panel - blood by automated count\n- humiliation, afraid, rape, and kick questionnaire [hark]\n- patient health questionnaire 2 item (phq-2) [reported]\n- alcohol use disorder identification test - consumption [audit-c]"
+ },
+ {
+  "patient_id": "0f5801b2-5a83-6af7-c532-d96b5b8af729",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Arlene Reinger",
+   "DATE_NAISSANCE": "1972-08-13",
+   "SSN": "999-36-5736",
+   "MRN": "0f5801b2-5a83-6af7-c532-d96b5b8af729",
+   "TELEPHONE": "555-831-5529",
+   "ADRESSE": "994 Welch Bay Apt 26",
+   "VILLE": "Lynnfield",
+   "CODE_POSTAL": "01940",
+   "MEDECIN": "Joanna Abbott"
+  },
+  "texte": "LAHEY HOSPITAL & MEDICAL CENTER, BURLINGTON\nPROGRESS NOTE\nPatient: Arlene Reinger    DOB: 1972-08-13    Sex: female\nMRN: 0f5801b2-5a83-6af7-c532-d96b5b8af729    SSN: 999-36-5736\nAddress: 994 Welch Bay Apt 26, Lynnfield, MA 01940    Phone: 555-831-5529\nAttending: Dr. Joanna Abbott\n\n2020-10-20\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nArlene is a 48 year-old nonhispanic white female. Patient has a history of gingival disease (disorder), medication review due (situation), unemployed (finding), acute viral pharyngitis (disorder), complete miscarriage (disorder), normal pregnancy (finding), part-time employment (finding), limited social contact (finding), full-time employment (finding), miscarriage in first trimester (disorder), gingivitis (disorder), suspected disease caused by severe acute respiratory coronavirus 2 (situation), stress (finding).\n\n# Social History\nPatient is single. Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient has completed some college courses.\nPatient currently has UnitedHealthcare.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\n168 hr ethinyl estradiol 0.00146 mg/hr / norelgestromin 0.00625 mg/hr transdermal system; {28 (norethindrone 0.35 mg oral tablet) } pack [camila 28 day]\n\n# Assessment and Plan\nPatient is presenting with pneumonia (disorder), hypoxemia (disorder), respiratory distress (finding), acute respiratory failure (disorder). \n\n\n## Plan\n\nThe following procedures were conducted:\n- plain x-ray of chest (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\nThe following lab reports were completed:\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- gas panel - arterial blood\n- iron panel - serum or plasma\n- troponin i.cardiac panel - serum or plasma by high sensitivity method\n- pt panel - platelet poor plasma by coagulation assay\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- gas panel - arterial blood\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- gas panel - arterial blood\n- iron panel - serum or plasma\n- troponin i.cardiac panel - serum or plasma by high sensitivity method\n- pt panel - platelet poor plasma by coagulation assay\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- gas panel - arterial blood\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- gas panel - arterial blood\n- iron panel - serum or plasma\n- troponin i.cardiac panel - serum or plasma by high sensitivity method\n- pt panel - platelet poor plasma by coagulation assay\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- gas panel - arterial blood\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- gas panel - arterial blood\n- iron panel - serum or plasma\n- troponin i.cardiac panel - serum or plasma by high sensitivity method\n- pt panel - platelet poor plasma by coagulation assay\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- gas panel - arterial blood\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- gas panel - arterial blood\n- iron panel - serum or plasma\n- troponin i.cardiac panel - serum or plasma by high sensitivity method\n- pt panel - platelet poor plasma by coagulation assay\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- gas panel - arterial blood\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- gas panel - arterial blood\n- iron panel - serum or plasma\n- troponin i.cardiac panel - serum or plasma by high sensitivity method\n- pt panel - platelet poor plasma by coagulation assay\n- sars-cov-2 (covid-19) rna panel - respiratory system specimen by naa with probe detection\n- sars-cov-2 (covid-19) rna panel - respiratory system specimen by naa with probe detection\nThe patient was prescribed the following medications:\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- acetaminophen 500 mg oral tablet"
+ },
+ {
+  "patient_id": "2b6ff529-5434-6e3f-f7bb-2135c44dce07",
+  "sexe": "male",
+  "pii": {
+   "PATIENT": "Art Harris",
+   "DATE_NAISSANCE": "2003-08-23",
+   "SSN": "999-44-6991",
+   "MRN": "2b6ff529-5434-6e3f-f7bb-2135c44dce07",
+   "TELEPHONE": "555-410-1646",
+   "ADRESSE": "195 Hickle Route Apt 45",
+   "VILLE": "Lowell",
+   "CODE_POSTAL": "01851",
+   "MEDECIN": "Jordon Bruen"
+  },
+  "texte": "DRACUT FAMILY HEALTHCARE\nPROGRESS NOTE\nPatient: Art Harris    DOB: 2003-08-23    Sex: male\nMRN: 2b6ff529-5434-6e3f-f7bb-2135c44dce07    SSN: 999-44-6991\nAddress: 195 Hickle Route Apt 45, Lowell, MA 01851    Phone: 555-410-1646\nAttending: Dr. Jordon Bruen\n\n2024-11-02\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nArt is a 21 year-old nonhispanic white male. Patient has a history of medication review due (situation), acute viral pharyngitis (disorder), viral sinusitis (disorder), social isolation (finding).\n\n# Social History\n Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient did not finish high school.\nPatient currently has Aetna.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nacetaminophen 325 mg / oxycodone hydrochloride 10 mg oral tablet [percocet]\n\n# Assessment and Plan\nPatient is presenting with medication review due (situation), unhealthy alcohol drinking behavior (finding). \n\n\n## Plan\nPatient was given the following immunizations: influenza, split virus, trivalent, pf, td (adult), 5 lf tetanus toxoid, preservative free, adsorbed, hep b, adult, meningococcal mcv4p. \nThe following procedures were conducted:\n- medication reconciliation (procedure)\n- assessment of health and social care needs (procedure)\n- assessment of anxiety (procedure)\n- depression screening (procedure)\n- depression screening (procedure)\n- assessment of substance use (procedure)\n- assessment using alcohol use disorders identification test - consumption (procedure)\nThe following lab reports were completed:\n- cbc panel - blood by automated count\n- generalized anxiety disorder 7 item (gad-7)\n- patient health questionnaire 2 item (phq-2) [reported]\n- alcohol use disorder identification test - consumption [audit-c]\nThe patient was prescribed the following medications:\n- acetaminophen 325 mg / oxycodone hydrochloride 10 mg oral tablet [percocet]"
+ },
+ {
+  "patient_id": "091a4b71-31ee-8d39-c0a6-c021b3951aed",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Asha Champlin",
+   "DATE_NAISSANCE": "1970-02-22",
+   "SSN": "999-24-5175",
+   "MRN": "091a4b71-31ee-8d39-c0a6-c021b3951aed",
+   "TELEPHONE": "555-853-2164",
+   "ADRESSE": "766 Christiansen Center",
+   "VILLE": "Framingham",
+   "CODE_POSTAL": "01702",
+   "MEDECIN": "Carolynn Von"
+  },
+  "texte": "APPLE MEDICAL CLINIC MA INC\nPROGRESS NOTE\nPatient: Asha Champlin    DOB: 1970-02-22    Sex: female\nMRN: 091a4b71-31ee-8d39-c0a6-c021b3951aed    SSN: 999-24-5175\nAddress: 766 Christiansen Center, Framingham, MA 01702    Phone: 555-853-2164\nAttending: Dr. Carolynn Von\n\n2026-03-29\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nAsha Keila is a 56 year-old nonhispanic white female. Patient has a history of gingival disease (disorder), streptococcal sore throat (disorder), medication review due (situation), acute viral pharyngitis (disorder), victim of intimate partner abuse (finding), viral sinusitis (disorder), part-time employment (finding), not in labor force (finding), limited social contact (finding), primary dental caries (disorder), full-time employment (finding), gingivitis (disorder), loose dental filling (finding), stress (finding).\n\n# Social History\nPatient is married. Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient has completed some college courses.\nPatient currently has Blue Cross Blue Shield.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\n{7 (ethinyl estradiol 0.035 mg / norgestimate 0.18 mg oral tablet) / 7 (ethinyl estradiol 0.035 mg / norgestimate 0.215 mg oral tablet) / 7 (ethinyl estradiol 0.035 mg / norgestimate 0.25 mg oral tablet) / 7 (inert ingredients 1 mg oral tablet) } pack [trinessa 28 day]; penicillin v potassium 500 mg oral tablet; {5 (dienogest 2 mg / estradiol valerate 2 mg oral tablet) / 17 (dienogest 3 mg / estradiol valerate 2 mg oral tablet) / 2 (estradiol valerate 1 mg oral tablet) / 2 (estradiol valerate 3 mg oral tablet) / 2 (inert ingredients 1 mg oral tablet) } pack [natazia 28 day]; levonorgestrel 0.000833 mg/hr intrauterine system [mirena]; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with medication review due (situation), full-time employment (finding), victim of intimate partner abuse (finding), gingivitis (disorder). \n\n\n## Plan\nPatient was given the following immunizations: influenza, split virus, trivalent, pf. \nThe following procedures were conducted:\n- assessment of health and social care needs (procedure)\n- assessment of anxiety (procedure)\n- depression screening (procedure)\n- depression screening (procedure)\n- assessment of substance use (procedure)\n- assessment using alcohol use disorders identification test - consumption (procedure)\n- patient referral for dental care (procedure)\nThe following lab reports were completed:\n- lipid panel with direct ldl - serum or plasma\n- generalized anxiety disorder 7 item (gad-7)\n- patient health questionnaire 2 item (phq-2) [reported]\n- alcohol use disorder identification test - consumption [audit-c]"
+ },
+ {
+  "patient_id": "3f0c90c7-2489-1306-ff69-868509c56635",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Asia Prosacco",
+   "DATE_NAISSANCE": "1959-01-10",
+   "SSN": "999-26-7501",
+   "MRN": "3f0c90c7-2489-1306-ff69-868509c56635",
+   "TELEPHONE": "555-882-4928",
+   "ADRESSE": "482 Larkin Track Suite 70",
+   "VILLE": "Springfield",
+   "CODE_POSTAL": "01129",
+   "MEDECIN": "Fritz Farrell"
+  },
+  "texte": "CARING HEALTH CENTER, INC\nPROGRESS NOTE\nPatient: Asia Prosacco    DOB: 1959-01-10    Sex: female\nMRN: 3f0c90c7-2489-1306-ff69-868509c56635    SSN: 999-26-7501\nAddress: 482 Larkin Track Suite 70, Springfield, MA 01129    Phone: 555-882-4928\nAttending: Dr. Fritz Farrell\n\n2026-04-18\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nAsia is a 67 year-old nonhispanic white female. Patient has a history of streptococcal sore throat (disorder), severe anxiety (panic) (finding), medication review due (situation), unemployed (finding), viral sinusitis (disorder), acute bronchitis (disorder), polyp of colon (disorder), part-time employment (finding), not in labor force (finding), limited social contact (finding), reports of violence in the environment (finding), full-time employment (finding), gingivitis (disorder), stress (finding), social isolation (finding).\n\n# Social History\nPatient is single. Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient did not finish high school.\nPatient currently has Dual Eligible.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nacetaminophen 325 mg oral tablet; lisinopril 10 mg oral tablet; hydrochlorothiazide 25 mg oral tablet; amlodipine 2.5 mg oral tablet; alendronic acid 10 mg oral tablet; azithromycin 250 mg oral tablet [zithromax]; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with medication review due (situation), full-time employment (finding), reports of violence in the environment (finding). \n\n\n## Plan\nPatient was given the following immunizations: influenza, split virus, trivalent, pf. \nThe following procedures were conducted:\n- assessment of health and social care needs (procedure)\n- assessment of substance use (procedure)\n- assessment using alcohol use disorders identification test - consumption (procedure)\nThe following lab reports were completed:\n- basic metabolic panel - blood\n- cbc panel - blood by automated count\n- alcohol use disorder identification test - consumption [audit-c]\nThe patient was prescribed the following medications:\n- hydrochlorothiazide 25 mg oral tablet\n- lisinopril 10 mg oral tablet\n- amlodipine 2.5 mg oral tablet\n- alendronic acid 10 mg oral tablet"
+ },
+ {
+  "patient_id": "e867c605-5382-756c-1d1f-a012fbc8d3b5",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Astrid Ward",
+   "DATE_NAISSANCE": "2000-05-20",
+   "SSN": "999-31-9138",
+   "MRN": "e867c605-5382-756c-1d1f-a012fbc8d3b5",
+   "TELEPHONE": "555-221-6308",
+   "ADRESSE": "221 Fahey Brook",
+   "VILLE": "Boston",
+   "CODE_POSTAL": "02120",
+   "MEDECIN": "Domitila Vandervort"
+  },
+  "texte": "BETH ISRAEL DEACONESS HOSPITAL MILTON INC\nPROGRESS NOTE\nPatient: Astrid Ward    DOB: 2000-05-20    Sex: female\nMRN: e867c605-5382-756c-1d1f-a012fbc8d3b5    SSN: 999-31-9138\nAddress: 221 Fahey Brook, Boston, MA 02120    Phone: 555-221-6308\nAttending: Dr. Domitila Vandervort\n\n2024-05-25\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nAstrid is a 24 year-old nonhispanic black female. Patient has a history of part-time employment (finding), medication review due (situation), primary dental caries (disorder), sinusitis (disorder), full-time employment (finding), unemployed (finding), viral sinusitis (disorder), acute infective cystitis (disorder), normal pregnancy (finding), stress (finding).\n\n# Social History\n Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient is a college graduate.\nPatient currently has Medicaid.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nnitrofurantoin, macrocrystals 25 mg / nitrofurantoin, monohydrate 75 mg oral capsule; {7 (ethinyl estradiol 0.01 mg oral tablet) / 84 (ethinyl estradiol 0.03 mg / levonorgestrel 0.15 mg oral tablet) } pack [seasonique]; 1 ml medroxyprogesterone acetate 150 mg/ml injection\n\n# Assessment and Plan\nPatient is presenting with normal pregnancy (finding). \n\n\n## Plan\n\nThe following procedures were conducted:\n- standard pregnancy test (procedure)\n- ultrasound scan for fetal viability (procedure)\n- evaluation of uterine fundal height (procedure)\n- auscultation of the fetal heart (procedure)\n- blood group typing (procedure)\n- hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure)\n- hepatitis b surface antigen measurement (procedure)\n- human immunodeficiency virus antigen test (procedure)\n- chlamydia antigen test (procedure)\n- gonorrhea infection titer test (procedure)\n- syphilis infectious titer test (procedure)\n- urine culture (procedure)\n- cytopathology procedure, preparation of smear, genital source (procedure)\n- urine screening test for diabetes (procedure)\n- hepatitis c antibody, confirmatory test (procedure)\n- rubella screening test (procedure)\n- measurement of varicella-zoster virus antibody (procedure)\n- skin test for tuberculosis, tine test (procedure)\n- urinalysis, protein, qualitative (procedure)\n- physical examination procedure (procedure)\nThe patient was placed on a careplan:\n- routine antenatal care (regime/therapy)"
+ },
+ {
+  "patient_id": "3a58586c-0394-ac00-30cd-00ca8708ca39",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Audrie Hammes",
+   "DATE_NAISSANCE": "1961-12-05",
+   "SSN": "999-41-8934",
+   "MRN": "3a58586c-0394-ac00-30cd-00ca8708ca39",
+   "TELEPHONE": "555-255-6066",
+   "ADRESSE": "189 Borer Fort",
+   "VILLE": "Cambridge",
+   "CODE_POSTAL": "02142",
+   "MEDECIN": "Clementine Jakubowski"
+  },
+  "texte": "BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC\nPROGRESS NOTE\nPatient: Audrie Hammes    DOB: 1961-12-05    Sex: female\nMRN: 3a58586c-0394-ac00-30cd-00ca8708ca39    SSN: 999-41-8934\nAddress: 189 Borer Fort, Cambridge, MA 02142    Phone: 555-255-6066\nAttending: Dr. Clementine Jakubowski\n\n2025-02-18\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nAudrie is a 63 year-old nonhispanic white female. Patient has a history of part-time employment (finding), acute bronchitis (disorder), medication review due (situation), not in labor force (finding), sinusitis (disorder), full-time employment (finding), viral sinusitis (disorder), gingivitis (disorder), myocardial infarction (disorder), stress (finding), social isolation (finding).\n\n# Social History\nPatient is married. Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient has completed some college courses.\nPatient currently has UnitedHealthcare.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nlisinopril 10 mg oral tablet; acetaminophen 325 mg oral tablet; 2 ml morphine sulfate 1 mg/ml injection; heparin sodium, porcine 100 unt/ml injectable solution; nitroglycerin 0.4 mg sublingual tablet; 100 ml eptifibatide 0.75 mg/ml injection; amlodipine 2.5 mg oral tablet; aspirin 325 mg oral tablet; ticagrelor 90 mg oral tablet; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with medication review due (situation), full-time employment (finding). \n\n\n## Plan\nPatient was given the following immunizations: influenza, split virus, trivalent, pf. \nThe following procedures were conducted:\n- medication reconciliation (procedure)\n- assessment of health and social care needs (procedure)\n- assessment of anxiety (procedure)\n- depression screening (procedure)\n- depression screening (procedure)\n- depression screening using patient health questionnaire nine item score (procedure)\n- assessment of substance use (procedure)\n- screening for drug abuse (procedure)\n- patient referral for dental care (procedure)\nThe following lab reports were completed:\n- generalized anxiety disorder 7 item (gad-7)\n- patient health questionnaire 2 item (phq-2) [reported]\n- phq-9 quick depression assessment panel [reported.phq]\n- drug abuse screening test-10 [dast-10]\nThe patient was prescribed the following medications:\n- lisinopril 10 mg oral tablet\n- amlodipine 2.5 mg oral tablet"
+ },
+ {
+  "patient_id": "068177c1-8d2f-d13f-6a1d-227d04383923",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Berta Villanueva",
+   "DATE_NAISSANCE": "1974-04-02",
+   "SSN": "999-86-3088",
+   "MRN": "068177c1-8d2f-d13f-6a1d-227d04383923",
+   "TELEPHONE": "555-701-3686",
+   "ADRESSE": "757 Dibbert Alley Unit 40",
+   "VILLE": "Boston",
+   "CODE_POSTAL": "02152",
+   "MEDECIN": "Alane Frami"
+  },
+  "texte": "SOUTH END COMMUNITY HEALTH CENTER INC\nPROGRESS NOTE\nPatient: Berta Villanueva    DOB: 1974-04-02    Sex: female\nMRN: 068177c1-8d2f-d13f-6a1d-227d04383923    SSN: 999-86-3088\nAddress: 757 Dibbert Alley Unit 40, Boston, MA 02152    Phone: 555-701-3686\nAttending: Dr. Alane Frami\n\n2025-04-08\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nBerta Virginia is a 51 year-old hispanic white female. Patient has a history of gingival disease (disorder), eclampsia in pregnancy (disorder), medication review due (situation), unemployed (finding), viral sinusitis (disorder), fractured dental filling (finding), normal pregnancy (finding), facial laceration (disorder), full-time employment (finding), anemia (disorder), laceration - injury (disorder), gingivitis (disorder), social isolation (finding), stress (finding).\n\n# Social History\nPatient is single. Patient quit smoking at age 21.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient has completed some college courses.\nPatient currently has NO INSURANCE.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\n21 day ethinyl estradiol 0.000625 mg/hr / etonogestrel 0.005 mg/hr vaginal system [nuvaring]; {24 (drospirenone 3 mg / ethinyl estradiol 0.02 mg oral tablet) / 4 (inert ingredients 1 mg oral tablet) } pack [yaz 28 day]; etonogestrel 68 mg drug implant; {21 (ethinyl estradiol 0.03 mg / levonorgestrel 0.15 mg oral tablet) / 7 (inert ingredients 1 mg oral tablet) } pack [levora 0.15/30 28 day]; 1 ml medroxyprogesterone acetate 150 mg/ml injection; naproxen sodium 220 mg oral tablet\n\n# Assessment and Plan\n\n\n\n## Plan\nPatient was given the following immunizations: zoster vaccine, live, influenza, split virus, trivalent, pf, td (adult), 5 lf tetanus toxoid, preservative free, adsorbed. \nThe following procedures were conducted:\n- medication reconciliation (procedure)\n- assessment of health and social care needs (procedure)\n- assessment of anxiety (procedure)\n- screening for domestic abuse (procedure)\n- depression screening (procedure)\n- depression screening (procedure)\n- assessment of substance use (procedure)\n- screening for drug abuse (procedure)\nThe following lab reports were completed:\n- generalized anxiety disorder 7 item (gad-7)\n- humiliation, afraid, rape, and kick questionnaire [hark]\n- patient health questionnaire 2 item (phq-2) [reported]\n- drug abuse screening test-10 [dast-10]"
+ },
+ {
+  "patient_id": "4091b9f5-1779-c891-ea3d-0ef10828bcbd",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Billie Roberts",
+   "DATE_NAISSANCE": "2010-11-11",
+   "SSN": "999-64-7419",
+   "MRN": "4091b9f5-1779-c891-ea3d-0ef10828bcbd",
+   "TELEPHONE": "555-943-9544",
+   "ADRESSE": "295 Wyman Wynd Unit 80",
+   "VILLE": "Methuen",
+   "CODE_POSTAL": "01841",
+   "MEDECIN": "Derek Greenholt"
+  },
+  "texte": "NEVINS NURSING & REHABILITATION CENTER\nPROGRESS NOTE\nPatient: Billie Roberts    DOB: 2010-11-11    Sex: female\nMRN: 4091b9f5-1779-c891-ea3d-0ef10828bcbd    SSN: 999-64-7419\nAddress: 295 Wyman Wynd Unit 80, Methuen, MA 01841    Phone: 555-943-9544\nAttending: Dr. Derek Greenholt\n\n2025-11-13\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nBillie is a 15 year-old nonhispanic white female. Patient has a history of injury of tendon of the rotator cuff of shoulder (disorder), acute bronchitis (disorder), medication review due (situation), acute viral pharyngitis (disorder), viral sinusitis (disorder), acute infective cystitis (disorder), gingivitis (disorder), loose dental filling (finding).\n\n# Social History\n Patient has never smoked.\n\n\nPatient comes from a middle socioeconomic background.\n\nPatient currently has Cigna Health.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\npenicillin v potassium 250 mg oral tablet; acetaminophen 325 mg oral tablet; amoxicillin 250 mg / clavulanate 125 mg oral tablet\n\n# Assessment and Plan\n\n\n\n## Plan\n\nThe following procedures were conducted:\n- history taking (procedure)\n- discussion about signs and symptoms (procedure)\n- triage: emergency center (procedure)\n- taking patient vital signs (procedure)\n- history and physical examination with evaluation and management of patient (procedure)\n- urinalysis with reflex to microscopy and culture (procedure)\n- urine specimen collection (procedure)\n- urinalysis with reflex to microscopy and culture (procedure)\n- antibiotic therapy (procedure)\n- patient discharge (procedure)\nThe following lab reports were completed:\n- urinalysis macro (dipstick) panel - urine\nThe patient was prescribed the following medications:\n- nitrofurantoin, macrocrystals 25 mg / nitrofurantoin, monohydrate 75 mg oral capsule"
+ },
+ {
+  "patient_id": "0c68cf3c-de5c-e2b6-04e0-0d8ccf4ca76d",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Birgit Shanahan",
+   "DATE_NAISSANCE": "1971-05-28",
+   "SSN": "999-98-8313",
+   "MRN": "0c68cf3c-de5c-e2b6-04e0-0d8ccf4ca76d",
+   "TELEPHONE": "555-195-3870",
+   "ADRESSE": "510 Deckow Pathway",
+   "VILLE": "Brockton",
+   "CODE_POSTAL": "02351",
+   "MEDECIN": "Arturo Schmidt"
+  },
+  "texte": "FAMILY AND COMMUNITY RESOURCES INC\nPROGRESS NOTE\nPatient: Birgit Shanahan    DOB: 1971-05-28    Sex: female\nMRN: 0c68cf3c-de5c-e2b6-04e0-0d8ccf4ca76d    SSN: 999-98-8313\nAddress: 510 Deckow Pathway, Brockton, MA 02351    Phone: 555-195-3870\nAttending: Dr. Arturo Schmidt\n\n2023-06-09\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nBirgit Sixta is a 52 year-old nonhispanic white female. Patient has a history of gingival disease (disorder), dyspnea (finding), severe anxiety (panic) (finding), medication review due (situation), sore throat (finding), wheezing (finding), unemployed (finding), victim of intimate partner abuse (finding), fever (finding), not in labor force (finding), full-time employment (finding), cough (finding), gingivitis (disorder), suspected disease caused by severe acute respiratory coronavirus 2 (situation), disease caused by severe acute respiratory syndrome coronavirus 2 (disorder), stress (finding).\n\n# Social History\nPatient is married. Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a high socioeconomic background.\n Patient is a college graduate.\nPatient currently has UnitedHealthcare.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nsodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with essential hypertension (disorder), part-time employment (finding), gingivitis (disorder). \n\n\n## Plan\nPatient was given the following immunizations: influenza, split virus, trivalent, pf. \nThe following procedures were conducted:\n- medication reconciliation (procedure)\n- assessment of health and social care needs (procedure)\n- screening for domestic abuse (procedure)\n- depression screening (procedure)\n- depression screening (procedure)\n- assessment of substance use (procedure)\n- assessment using alcohol use disorders identification test - consumption (procedure)\n- patient referral for dental care (procedure)\nThe following lab reports were completed:\n- basic metabolic panel - blood\n- cbc panel - blood by automated count\n- humiliation, afraid, rape, and kick questionnaire [hark]\n- patient health questionnaire 2 item (phq-2) [reported]\n- alcohol use disorder identification test - consumption [audit-c]\nThe patient was prescribed the following medications:\n- hydrochlorothiazide 25 mg oral tablet\n- lisinopril 10 mg oral tablet\n- hydrochlorothiazide 25 mg oral tablet\n- lisinopril 10 mg oral tablet\nThe patient was placed on a careplan:\n- lifestyle education regarding hypertension (procedure)"
+ },
+ {
+  "patient_id": "1d670d3c-f290-52f4-9409-aaffd1eb59f5",
+  "sexe": "male",
+  "pii": {
+   "PATIENT": "Brett Kirlin",
+   "DATE_NAISSANCE": "1998-12-30",
+   "SSN": "999-55-4215",
+   "MRN": "1d670d3c-f290-52f4-9409-aaffd1eb59f5",
+   "TELEPHONE": "555-653-1180",
+   "ADRESSE": "517 Hackett Trace",
+   "VILLE": "Plymouth",
+   "CODE_POSTAL": "02360",
+   "MEDECIN": "Isaac Kub"
+  },
+  "texte": "PLYMOUTH CARVER PRIMARY CARE, P.C.\nPROGRESS NOTE\nPatient: Brett Kirlin    DOB: 1998-12-30    Sex: male\nMRN: 1d670d3c-f290-52f4-9409-aaffd1eb59f5    SSN: 999-55-4215\nAddress: 517 Hackett Trace, Plymouth, MA 02360    Phone: 555-653-1180\nAttending: Dr. Isaac Kub\n\n2021-03-10\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nBrett is a 22 year-old nonhispanic black male. Patient has a history of gingival disease (disorder), fatigue (finding), medication review due (situation), fever (finding), sputum finding (finding), limited social contact (finding), reports of violence in the environment (finding), full-time employment (finding), nasal congestion (finding), gingivitis (disorder), loss of taste (finding), suspected disease caused by severe acute respiratory coronavirus 2 (situation), disease caused by severe acute respiratory syndrome coronavirus 2 (disorder), stress (finding).\n\n# Social History\n Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient has completed some college courses.\nPatient currently has Humana.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nsodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with medication review due (situation), body mass index 30+ - obesity (finding), not in labor force (finding), gingivitis (disorder). \n\n\n## Plan\nPatient was given the following immunizations: influenza, split virus, trivalent, pf, td (adult), 5 lf tetanus toxoid, preservative free, adsorbed, hep b, adult, meningococcal mcv4p. \nThe following procedures were conducted:\n- medication reconciliation (procedure)\n- assessment of health and social care needs (procedure)\n- assessment of anxiety (procedure)\n- screening for domestic abuse (procedure)\n- depression screening (procedure)\n- depression screening (procedure)\n- assessment of substance use (procedure)\n- screening for drug abuse (procedure)\n- patient referral for dental care (procedure)\nThe following lab reports were completed:\n- cbc panel - blood by automated count\n- generalized anxiety disorder 7 item (gad-7)\n- humiliation, afraid, rape, and kick questionnaire [hark]\n- patient health questionnaire 2 item (phq-2) [reported]\n- drug abuse screening test-10 [dast-10]"
+ },
+ {
+  "patient_id": "34dd4106-4635-e94b-c4b1-640b0ea3c80d",
+  "sexe": "male",
+  "pii": {
+   "PATIENT": "Burt Rutherford",
+   "DATE_NAISSANCE": "2018-09-02",
+   "SSN": "999-36-7867",
+   "MRN": "34dd4106-4635-e94b-c4b1-640b0ea3c80d",
+   "TELEPHONE": "555-827-8056",
+   "ADRESSE": "173 Eichmann Estate",
+   "VILLE": "Yarmouth",
+   "CODE_POSTAL": "00000",
+   "MEDECIN": "Arden Bergstrom"
+  },
+  "texte": "CAPE COD HOSPITAL INC\nPROGRESS NOTE\nPatient: Burt Rutherford    DOB: 2018-09-02    Sex: male\nMRN: 34dd4106-4635-e94b-c4b1-640b0ea3c80d    SSN: 999-36-7867\nAddress: 173 Eichmann Estate, Yarmouth, MA 00000    Phone: 555-827-8056\nAttending: Dr. Arden Bergstrom\n\n2023-08-20\n\n# Chief Complaint\n- Nasal Congestion\n\n\n# History of Present Illness\nBurt is a 4 year-old nonhispanic white male. Patient has a history of acute bacterial sinusitis (disorder), medication review due (situation), acute viral pharyngitis (disorder), viral sinusitis (disorder), otitis media (disorder).\n\n# Social History\n Patient has never smoked.\n\n\nPatient comes from a middle socioeconomic background.\n\nPatient currently has Medicaid.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nazithromycin 250 mg oral capsule; cefuroxime 250 mg oral tablet; ibuprofen 100 mg oral tablet; acetaminophen 160 mg chewable tablet\n\n# Assessment and Plan\n\n\n\n## Plan\n\nThe following procedures were conducted:\n- dental consultation and report (procedure)\n- dental care (regime/therapy)\n- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)\n- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)\n- dental plain x-ray bitewing (procedure)\n- examination of gingivae (procedure)\n- dental fluoride treatment (procedure)\n- oral health education (procedure)\nThe patient was prescribed the following medications:\n- sodium fluoride 0.0272 mg/mg oral gel"
+ },
+ {
+  "patient_id": "55612fe8-9071-4a97-8e4c-8cc653c8394c",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Carmelina Shanahan",
+   "DATE_NAISSANCE": "1990-12-01",
+   "SSN": "999-27-5552",
+   "MRN": "55612fe8-9071-4a97-8e4c-8cc653c8394c",
+   "TELEPHONE": "555-879-6292",
+   "ADRESSE": "425 Torphy Lock Unit 27",
+   "VILLE": "Uxbridge",
+   "CODE_POSTAL": "00000",
+   "MEDECIN": "Alysia Bogan"
+  },
+  "texte": "BLUPOINT MANAGEMENT II LLC\nPROGRESS NOTE\nPatient: Carmelina Shanahan    DOB: 1990-12-01    Sex: female\nMRN: 55612fe8-9071-4a97-8e4c-8cc653c8394c    SSN: 999-27-5552\nAddress: 425 Torphy Lock Unit 27, Uxbridge, MA 00000    Phone: 555-879-6292\nAttending: Dr. Alysia Bogan\n\n2017-07-18\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nCarmelina Jeane is a 26 year-old nonhispanic white female. Patient has a history of full-time employment (finding), miscarriage in first trimester (disorder), complete miscarriage (disorder), normal pregnancy (finding).\n\n# Social History\nPatient is single. Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient has completed some college courses.\nPatient currently has Anthem.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nNo Active Medications.\n\n# Assessment and Plan\n\n\n\n## Plan\n\nThe following procedures were conducted:\n- history and physical examination (procedure)\n- initial patient assessment (procedure)\n- development of individualized plan of care (procedure)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- professional / ancillary services care (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- occupational therapy (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- occupational therapy (regime/therapy)\n- professional / ancillary services care (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- speech and language therapy regime (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- professional / ancillary services care (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- physical therapy procedure (regime/therapy)\n- occupational therapy (regime/therapy)\n- professional / ancillary services care (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- professional / ancillary services care (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- professional / ancillary services care (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- professional / ancillary services care (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- professional / ancillary services care (regime/therapy)\n- pre-discharge assessment (procedure)\n- discharge from hospital (procedure)"
+ },
+ {
+  "patient_id": "b11899dd-7755-73bd-cc39-d6eea54d15a1",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Chandra Sanford",
+   "DATE_NAISSANCE": "2006-11-27",
+   "SSN": "999-54-6729",
+   "MRN": "b11899dd-7755-73bd-cc39-d6eea54d15a1",
+   "TELEPHONE": "555-712-3780",
+   "ADRESSE": "569 Oberbrunner Mission Suite 37",
+   "VILLE": "Watertown",
+   "CODE_POSTAL": "02472",
+   "MEDECIN": "Shanell Hand"
+  },
+  "texte": "PERSONAL PHYSICIANS HEALTHCARE PC\nPROGRESS NOTE\nPatient: Chandra Sanford    DOB: 2006-11-27    Sex: female\nMRN: b11899dd-7755-73bd-cc39-d6eea54d15a1    SSN: 999-54-6729\nAddress: 569 Oberbrunner Mission Suite 37, Watertown, MA 02472    Phone: 555-712-3780\nAttending: Dr. Shanell Hand\n\n2026-01-26\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nChandra is a 19 year-old nonhispanic white female. Patient has a history of risk activity involvement (finding), sprain (morphologic abnormality), medication review due (situation), infection of tooth (disorder), sprain of wrist (disorder), viral sinusitis (disorder), gingivitis (disorder).\n\n# Social History\n Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient has completed some college courses.\nPatient currently has UnitedHealthcare.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nacetaminophen 325 mg oral tablet; {24 (drospirenone 3 mg / ethinyl estradiol 0.02 mg oral tablet) / 4 (inert ingredients 1 mg oral tablet) } pack [yaz 28 day]; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with medication review due (situation), gingivitis (disorder). \n\n\n## Plan\nPatient was given the following immunizations: influenza, split virus, trivalent, pf. \nThe following procedures were conducted:\n- medication reconciliation (procedure)\n- assessment of health and social care needs (procedure)\n- screening for domestic abuse (procedure)\n- depression screening (procedure)\n- depression screening (procedure)\n- patient referral for dental care (procedure)\nThe following lab reports were completed:\n- humiliation, afraid, rape, and kick questionnaire [hark]\n- patient health questionnaire 2 item (phq-2) [reported]"
+ },
+ {
+  "patient_id": "7552a042-626c-d9fa-ccc1-523d94adc321",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Christal Cronin",
+   "DATE_NAISSANCE": "1978-08-04",
+   "SSN": "999-80-9177",
+   "MRN": "7552a042-626c-d9fa-ccc1-523d94adc321",
+   "TELEPHONE": "555-722-5426",
+   "ADRESSE": "1009 Skiles Underpass Unit 51",
+   "VILLE": "Boston",
+   "CODE_POSTAL": "02116",
+   "MEDECIN": "Emilia Hernández"
+  },
+  "texte": "TUFTS MEDICAL CENTER, INC\nPROGRESS NOTE\nPatient: Christal Cronin    DOB: 1978-08-04    Sex: female\nMRN: 7552a042-626c-d9fa-ccc1-523d94adc321    SSN: 999-80-9177\nAddress: 1009 Skiles Underpass Unit 51, Boston, MA 02116    Phone: 555-722-5426\nAttending: Dr. Emilia Hernández\n\n2020-12-18\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nChristal is a 42 year-old nonhispanic white female. Patient has a history of gingival disease (disorder), part-time employment (finding), medication review due (situation), not in labor force (finding), miscarriage in first trimester (disorder), acute viral pharyngitis (disorder), tubal pregnancy (disorder), social isolation (finding), stress (finding), normal pregnancy (finding).\n\n# Social History\nPatient is married. Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a high socioeconomic background.\n Patient has completed some college courses.\nPatient currently has UnitedHealthcare.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\n{28 (norethindrone 0.35 mg oral tablet) } pack [jolivette 28 day]; levonorgestrel 0.000833 mg/hr intrauterine system [mirena]; 1 ml medroxyprogesterone acetate 150 mg/ml injection; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with normal pregnancy (finding). \n\n\n## Plan\n\nThe following procedures were conducted:\n- standard pregnancy test (procedure)\n- ultrasound scan for fetal viability (procedure)\n- evaluation of uterine fundal height (procedure)\n- auscultation of the fetal heart (procedure)\n- blood group typing (procedure)\n- hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure)\n- hepatitis b surface antigen measurement (procedure)\n- human immunodeficiency virus antigen test (procedure)\n- chlamydia antigen test (procedure)\n- gonorrhea infection titer test (procedure)\n- syphilis infectious titer test (procedure)\n- urine culture (procedure)\n- cytopathology procedure, preparation of smear, genital source (procedure)\n- urine screening test for diabetes (procedure)\n- hepatitis c antibody, confirmatory test (procedure)\n- rubella screening test (procedure)\n- measurement of varicella-zoster virus antibody (procedure)\n- skin test for tuberculosis, tine test (procedure)\n- urinalysis, protein, qualitative (procedure)\n- physical examination procedure (procedure)\nThe patient was placed on a careplan:\n- routine antenatal care (regime/therapy)"
+ },
+ {
+  "patient_id": "69bacca4-0807-043d-cf29-3bcdd444566a",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Christeen Braun",
+   "DATE_NAISSANCE": "1979-09-03",
+   "SSN": "999-72-7127",
+   "MRN": "69bacca4-0807-043d-cf29-3bcdd444566a",
+   "TELEPHONE": "555-419-9727",
+   "ADRESSE": "617 Towne Stravenue",
+   "VILLE": "Revere",
+   "CODE_POSTAL": "02151",
+   "MEDECIN": "Jared Satterfield"
+  },
+  "texte": "MELROSE INTERNAL MEDICINE ASSOC PC\nPROGRESS NOTE\nPatient: Christeen Braun    DOB: 1979-09-03    Sex: female\nMRN: 69bacca4-0807-043d-cf29-3bcdd444566a    SSN: 999-72-7127\nAddress: 617 Towne Stravenue, Revere, MA 02151    Phone: 555-419-9727\nAttending: Dr. Jared Satterfield\n\n2023-09-18\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nChristeen Angeline is a 44 year-old hispanic black female. Patient has a history of gingival disease (disorder), medication review due (situation), leaking dental filling (finding), viral sinusitis (disorder), normal pregnancy (finding), part-time employment (finding), limited social contact (finding), unhealthy alcohol drinking behavior (finding), infection of tooth (disorder), full-time employment (finding), miscarriage in first trimester (disorder), gingivitis (disorder), tubal pregnancy (disorder), stress (finding).\n\n# Social History\nPatient is married. Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient has completed some college courses.\nPatient currently has Humana.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\n{7 (ethinyl estradiol 0.035 mg / norgestimate 0.18 mg oral tablet) / 7 (ethinyl estradiol 0.035 mg / norgestimate 0.215 mg oral tablet) / 7 (ethinyl estradiol 0.035 mg / norgestimate 0.25 mg oral tablet) / 7 (inert ingredients 1 mg oral tablet) } pack [trinessa 28 day]; {24 (drospirenone 3 mg / ethinyl estradiol 0.02 mg oral tablet) / 4 (inert ingredients 1 mg oral tablet) } pack [yaz 28 day]; {28 (norethindrone 0.35 mg oral tablet) } pack [errin 28 day]; 1 ml medroxyprogesterone acetate 150 mg/ml injection; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with full-time employment (finding), stress (finding). \n\n\n## Plan\nPatient was given the following immunizations: influenza, split virus, trivalent, pf. \nThe following procedures were conducted:\n- assessment of health and social care needs (procedure)\n- assessment of anxiety (procedure)\n- screening for domestic abuse (procedure)\n- depression screening (procedure)\n- depression screening (procedure)\n- assessment of substance use (procedure)\n- screening for drug abuse (procedure)\nThe following lab reports were completed:\n- basic metabolic panel - blood\n- generalized anxiety disorder 7 item (gad-7)\n- humiliation, afraid, rape, and kick questionnaire [hark]\n- patient health questionnaire 2 item (phq-2) [reported]\n- drug abuse screening test-10 [dast-10]"
+ },
+ {
+  "patient_id": "bae49511-dd8c-d6df-e7be-b77c768bedcc",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Chu Schmeler",
+   "DATE_NAISSANCE": "2005-09-01",
+   "SSN": "999-70-2487",
+   "MRN": "bae49511-dd8c-d6df-e7be-b77c768bedcc",
+   "TELEPHONE": "555-419-2582",
+   "ADRESSE": "296 Nader Corner Suite 38",
+   "VILLE": "Boston",
+   "CODE_POSTAL": "02132",
+   "MEDECIN": "Eleni Franecki"
+  },
+  "texte": "BETH ISRAEL DEACONESS HOSPITAL-NEEDHAM, INC.\nPROGRESS NOTE\nPatient: Chu Schmeler    DOB: 2005-09-01    Sex: female\nMRN: bae49511-dd8c-d6df-e7be-b77c768bedcc    SSN: 999-70-2487\nAddress: 296 Nader Corner Suite 38, Boston, MA 02132    Phone: 555-419-2582\nAttending: Dr. Eleni Franecki\n\n2026-08-20\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nChu is a 20 year-old nonhispanic white female. Patient has a history of acute bronchitis (disorder), medication review due (situation), limited social contact (finding), primary dental caries (disorder), full-time employment (finding), unemployed (finding), acute viral pharyngitis (disorder), viral sinusitis (disorder), gingivitis (disorder), normal pregnancy (finding).\n\n# Social History\n Patient quit smoking at age 16.\n Patient identifies as heterosexual.\n\nPatient comes from a high socioeconomic background.\n Patient has completed some college courses.\nPatient currently has NO INSURANCE.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\n21 day ethinyl estradiol 0.000625 mg/hr / etonogestrel 0.005 mg/hr vaginal system [nuvaring]; acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; {5 (dienogest 2 mg / estradiol valerate 2 mg oral tablet) / 17 (dienogest 3 mg / estradiol valerate 2 mg oral tablet) / 2 (estradiol valerate 1 mg oral tablet) / 2 (estradiol valerate 3 mg oral tablet) / 2 (inert ingredients 1 mg oral tablet) } pack [natazia 28 day]; {7 (ethinyl estradiol 0.01 mg oral tablet) / 84 (ethinyl estradiol 0.03 mg / levonorgestrel 0.15 mg oral tablet) } pack [seasonique]; {21 (ethinyl estradiol 0.03 mg / levonorgestrel 0.15 mg oral tablet) / 7 (inert ingredients 1 mg oral tablet) } pack [levora 0.15/30 28 day]; {28 (norethindrone 0.35 mg oral tablet) } pack [jolivette 28 day]; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with full-time employment (finding), victim of intimate partner abuse (finding), gingivitis (disorder). \n\n\n## Plan\nPatient was given the following immunizations: influenza, split virus, trivalent, pf, hep b, adult. \nThe following procedures were conducted:\n- assessment of health and social care needs (procedure)\n- screening for domestic abuse (procedure)\n- depression screening (procedure)\n- depression screening (procedure)\n- assessment of substance use (procedure)\n- screening for drug abuse (procedure)\n- patient referral for dental care (procedure)\nThe following lab reports were completed:\n- humiliation, afraid, rape, and kick questionnaire [hark]\n- patient health questionnaire 2 item (phq-2) [reported]\n- drug abuse screening test-10 [dast-10]"
+ },
+ {
+  "patient_id": "35888667-7e81-9343-2db6-3cfa9fa4e01b",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Cleo Paucek",
+   "DATE_NAISSANCE": "2001-03-31",
+   "SSN": "999-82-3037",
+   "MRN": "35888667-7e81-9343-2db6-3cfa9fa4e01b",
+   "TELEPHONE": "555-630-6449",
+   "ADRESSE": "120 Wisozk Wynd",
+   "VILLE": "Boston",
+   "CODE_POSTAL": "02129",
+   "MEDECIN": "Chantell Krajcik"
+  },
+  "texte": "FRANCISCAN HOSPITAL FOR CHILDREN INC\nPROGRESS NOTE\nPatient: Cleo Paucek    DOB: 2001-03-31    Sex: female\nMRN: 35888667-7e81-9343-2db6-3cfa9fa4e01b    SSN: 999-82-3037\nAddress: 120 Wisozk Wynd, Boston, MA 02129    Phone: 555-630-6449\nAttending: Dr. Chantell Krajcik\n\n2023-10-28\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nCleo is a 22 year-old nonhispanic white female. Patient has a history of gingival disease (disorder), risk activity involvement (finding), medication review due (situation), unemployed (finding), miscarriage in first trimester (disorder), victim of intimate partner abuse (finding), gingivitis (disorder), tubal pregnancy (disorder), stress (finding), normal pregnancy (finding).\n\n# Social History\n Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a high socioeconomic background.\n Patient is a college graduate.\nPatient currently has Humana.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\n1 ml medroxyprogesterone acetate 150 mg/ml injection; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with normal pregnancy (finding). \n\n\n## Plan\n\nThe following procedures were conducted:\n- standard pregnancy test (procedure)\n- ultrasound scan for fetal viability (procedure)\n- evaluation of uterine fundal height (procedure)\n- auscultation of the fetal heart (procedure)\n- blood group typing (procedure)\n- hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure)\n- hepatitis b surface antigen measurement (procedure)\n- human immunodeficiency virus antigen test (procedure)\n- chlamydia antigen test (procedure)\n- gonorrhea infection titer test (procedure)\n- syphilis infectious titer test (procedure)\n- urine culture (procedure)\n- cytopathology procedure, preparation of smear, genital source (procedure)\n- urine screening test for diabetes (procedure)\n- hepatitis c antibody, confirmatory test (procedure)\n- rubella screening test (procedure)\n- measurement of varicella-zoster virus antibody (procedure)\n- skin test for tuberculosis, tine test (procedure)\n- urinalysis, protein, qualitative (procedure)\n- physical examination procedure (procedure)\nThe patient was placed on a careplan:\n- routine antenatal care (regime/therapy)"
+ },
+ {
+  "patient_id": "1c71f4c4-c4a6-47fd-6d52-182f2a8d0cf0",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Corina Rutherford",
+   "DATE_NAISSANCE": "1994-12-18",
+   "SSN": "999-38-4933",
+   "MRN": "1c71f4c4-c4a6-47fd-6d52-182f2a8d0cf0",
+   "TELEPHONE": "555-397-6963",
+   "ADRESSE": "436 McClure Junction",
+   "VILLE": "Brockton",
+   "CODE_POSTAL": "02302",
+   "MEDECIN": "Lorene Ward"
+  },
+  "texte": "STEWARD GOOD SAMARITAN MEDICAL CENTER, INC.\nPROGRESS NOTE\nPatient: Corina Rutherford    DOB: 1994-12-18    Sex: female\nMRN: 1c71f4c4-c4a6-47fd-6d52-182f2a8d0cf0    SSN: 999-38-4933\nAddress: 436 McClure Junction, Brockton, MA 02302    Phone: 555-397-6963\nAttending: Dr. Lorene Ward\n\n2023-06-25\n\n# Chief Complaint\n- Shortness of Breath\n\n\n# History of Present Illness\nCorina Hae is a 28 year-old nonhispanic white female. Patient has a history of miscarriage in second trimester (disorder), medication review due (situation), unemployed (finding), fractured dental filling (finding), normal pregnancy (finding), fetus with chromosomal abnormality (disorder), part-time employment (finding), acute bronchitis (disorder), limited social contact (finding), sinusitis (disorder), full-time employment (finding), gingivitis (disorder), social isolation (finding), stress (finding).\n\n# Social History\nPatient is married. Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient has completed some college courses.\nPatient currently has Blue Cross Blue Shield.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\n168 hr ethinyl estradiol 0.00146 mg/hr / norelgestromin 0.00625 mg/hr transdermal system; acetaminophen 21.7 mg/ml / dextromethorphan hydrobromide 1 mg/ml / doxylamine succinate 0.417 mg/ml oral solution; 120 actuat fluticasone propionate 0.044 mg/actuat metered dose inhaler [flovent]; {28 (norethindrone 0.35 mg oral tablet) } pack [jolivette 28 day]; {28 (norethindrone 0.35 mg oral tablet) } pack [camila 28 day]; albuterol 0.83 mg/ml inhalation solution; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with normal pregnancy (finding). \n\n\n## Plan\n\nThe following procedures were conducted:\n- standard pregnancy test (procedure)\n- ultrasound scan for fetal viability (procedure)\n- evaluation of uterine fundal height (procedure)\n- auscultation of the fetal heart (procedure)\n- blood group typing (procedure)\n- hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure)\n- hepatitis b surface antigen measurement (procedure)\n- human immunodeficiency virus antigen test (procedure)\n- chlamydia antigen test (procedure)\n- gonorrhea infection titer test (procedure)\n- syphilis infectious titer test (procedure)\n- urine culture (procedure)\n- cytopathology procedure, preparation of smear, genital source (procedure)\n- urine screening test for diabetes (procedure)\n- hepatitis c antibody, confirmatory test (procedure)\n- rubella screening test (procedure)\n- measurement of varicella-zoster virus antibody (procedure)\n- skin test for tuberculosis, tine test (procedure)\n- urinalysis, protein, qualitative (procedure)\n- physical examination procedure (procedure)"
+ },
+ {
+  "patient_id": "8034b960-0ebd-4e25-e008-d3f60d1b51fe",
+  "sexe": "male",
+  "pii": {
+   "PATIENT": "Cornell Parker",
+   "DATE_NAISSANCE": "1987-03-24",
+   "SSN": "999-56-1759",
+   "MRN": "8034b960-0ebd-4e25-e008-d3f60d1b51fe",
+   "TELEPHONE": "555-491-5822",
+   "ADRESSE": "839 Lowe Trailer Suite 20",
+   "VILLE": "Holyoke",
+   "CODE_POSTAL": "01040",
+   "MEDECIN": "Barrett Wolf"
+  },
+  "texte": "HOLYOKE MEDICAL CENTER INC\nPROGRESS NOTE\nPatient: Cornell Parker    DOB: 1987-03-24    Sex: male\nMRN: 8034b960-0ebd-4e25-e008-d3f60d1b51fe    SSN: 999-56-1759\nAddress: 839 Lowe Trailer Suite 20, Holyoke, MA 01040    Phone: 555-491-5822\nAttending: Dr. Barrett Wolf\n\n2018-06-26\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nCornell is a 31 year-old nonhispanic white male. Patient has a history of part-time employment (finding), full-time employment (finding), viral sinusitis (disorder), gingivitis (disorder), social isolation (finding), stress (finding).\n\n# Social History\nPatient is single. Patient has a documented history of opioid addiction. Patient quit smoking at age 21.\n Patient identifies as heterosexual.\n\nPatient comes from a low socioeconomic background.\n Patient did not finish high school.\nPatient currently has Aetna.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\namoxicillin 250 mg / clavulanate 125 mg oral tablet\n\n# Assessment and Plan\nPatient is presenting with gingival disease (disorder), primary dental caries (disorder). \n\n\n## Plan\n\nThe following procedures were conducted:\n- dental consultation and report (procedure)\n- dental care (regime/therapy)\n- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)\n- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)\n- dental plain x-ray bitewing (procedure)\n- examination of gingivae (procedure)\n- dental surgical procedure (procedure)\n- dental application of desensitizing medicament (procedure)\n- gingivectomy or gingivoplasty, per tooth (procedure)\n- postoperative care for dental procedure (regime/therapy)\n- application of composite dental filling material to dentin of tooth following fracture of tooth (procedure)\n- dental fluoride treatment (procedure)\n- oral health education (procedure)\nThe patient was prescribed the following medications:\n- sodium fluoride 0.0272 mg/mg oral gel"
+ },
+ {
+  "patient_id": "bb494bf8-339d-d47a-e819-b9cd2a11f248",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Crystle Hartmann",
+   "DATE_NAISSANCE": "1970-05-27",
+   "SSN": "999-12-2740",
+   "MRN": "bb494bf8-339d-d47a-e819-b9cd2a11f248",
+   "TELEPHONE": "555-758-8415",
+   "ADRESSE": "864 Okuneva Park Apt 66",
+   "VILLE": "Arlington",
+   "CODE_POSTAL": "02474",
+   "MEDECIN": "Luther Schroeder"
+  },
+  "texte": "FAMILY PRACTICE GROUP PC\nPROGRESS NOTE\nPatient: Crystle Hartmann    DOB: 1970-05-27    Sex: female\nMRN: bb494bf8-339d-d47a-e819-b9cd2a11f248    SSN: 999-12-2740\nAddress: 864 Okuneva Park Apt 66, Arlington, MA 02474    Phone: 555-758-8415\nAttending: Dr. Luther Schroeder\n\n2026-04-22\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nCrystle is a 55 year-old nonhispanic white female. Patient has a history of medication review due (situation), acute viral pharyngitis (disorder), leaking dental filling (finding), victim of intimate partner abuse (finding), viral sinusitis (disorder), part-time employment (finding), limited social contact (finding), not in labor force (finding), reports of violence in the environment (finding), full-time employment (finding), gingivitis (disorder), social isolation (finding), stress (finding).\n\n# Social History\nPatient is single. Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a high socioeconomic background.\n Patient is a college graduate.\nPatient currently has Humana.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\n{21 (ethinyl estradiol 0.03 mg / levonorgestrel 0.15 mg oral tablet) / 7 (inert ingredients 1 mg oral tablet) } pack [levora 0.15/30 28 day]; {28 (norethindrone 0.35 mg oral tablet) } pack [errin 28 day]; acetaminophen 325 mg oral tablet [tylenol]; amoxicillin 250 mg / clavulanate 125 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with medication review due (situation), full-time employment (finding), stress (finding). \n\n\n## Plan\nPatient was given the following immunizations: influenza, split virus, trivalent, pf. \nThe following procedures were conducted:\n- assessment of health and social care needs (procedure)\n- screening for domestic abuse (procedure)\n- depression screening (procedure)\n- depression screening (procedure)\n- assessment of substance use (procedure)\n- assessment using alcohol use disorders identification test - consumption (procedure)\nThe following lab reports were completed:\n- cbc panel - blood by automated count\n- humiliation, afraid, rape, and kick questionnaire [hark]\n- patient health questionnaire 2 item (phq-2) [reported]\n- alcohol use disorder identification test - consumption [audit-c]\nThe patient was prescribed the following medications:\n- acetaminophen 325 mg oral tablet [tylenol]"
+ },
+ {
+  "patient_id": "111cdc71-87ec-e924-559b-09417c3bef49",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Cyndy Casper",
+   "DATE_NAISSANCE": "1990-10-27",
+   "SSN": "999-81-6222",
+   "MRN": "111cdc71-87ec-e924-559b-09417c3bef49",
+   "TELEPHONE": "555-151-7637",
+   "ADRESSE": "161 Langworth Divide Unit 7",
+   "VILLE": "Quincy",
+   "CODE_POSTAL": "02171",
+   "MEDECIN": "Leland Bernier"
+  },
+  "texte": "WALDEN BEHAVIORAL CARE LLC\nPROGRESS NOTE\nPatient: Cyndy Casper    DOB: 1990-10-27    Sex: female\nMRN: 111cdc71-87ec-e924-559b-09417c3bef49    SSN: 999-81-6222\nAddress: 161 Langworth Divide Unit 7, Quincy, MA 02171    Phone: 555-151-7637\nAttending: Dr. Leland Bernier\n\n2020-10-10\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nCyndy Luisa is a 29 year-old nonhispanic white female. Patient has a history of part-time employment (finding), limited social contact (finding), full-time employment (finding), viral sinusitis (disorder), stress (finding), normal pregnancy (finding).\n\n# Social History\nPatient is married. Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a high socioeconomic background.\n Patient has a high school education.\nPatient currently has Aetna.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\n{21 (ethinyl estradiol 0.03 mg / levonorgestrel 0.15 mg oral tablet) / 7 (inert ingredients 1 mg oral tablet) } pack [levora 0.15/30 28 day]; levonorgestrel 0.000729 mg/hr intrauterine system [kyleena]; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with normal pregnancy (finding). \n\n\n## Plan\n\nThe following procedures were conducted:\n- standard pregnancy test (procedure)\n- ultrasound scan for fetal viability (procedure)\n- evaluation of uterine fundal height (procedure)\n- auscultation of the fetal heart (procedure)\n- blood group typing (procedure)\n- hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure)\n- hepatitis b surface antigen measurement (procedure)\n- human immunodeficiency virus antigen test (procedure)\n- chlamydia antigen test (procedure)\n- gonorrhea infection titer test (procedure)\n- syphilis infectious titer test (procedure)\n- urine culture (procedure)\n- cytopathology procedure, preparation of smear, genital source (procedure)\n- urine screening test for diabetes (procedure)\n- hepatitis c antibody, confirmatory test (procedure)\n- rubella screening test (procedure)\n- measurement of varicella-zoster virus antibody (procedure)\n- skin test for tuberculosis, tine test (procedure)\n- urinalysis, protein, qualitative (procedure)\n- physical examination procedure (procedure)\nThe patient was placed on a careplan:\n- routine antenatal care (regime/therapy)"
+ },
+ {
+  "patient_id": "765b0c56-0d24-6ccc-57ca-ec77b23b8f20",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Daniell Swift",
+   "DATE_NAISSANCE": "1990-12-03",
+   "SSN": "999-48-1523",
+   "MRN": "765b0c56-0d24-6ccc-57ca-ec77b23b8f20",
+   "TELEPHONE": "555-701-2908",
+   "ADRESSE": "685 Stiedemann Haven Apt 31",
+   "VILLE": "Stoughton",
+   "CODE_POSTAL": "00000",
+   "MEDECIN": "Margrett Davis"
+  },
+  "texte": "STEWARD ST. ANNES HOSPITAL CORPORATION\nPROGRESS NOTE\nPatient: Daniell Swift    DOB: 1990-12-03    Sex: female\nMRN: 765b0c56-0d24-6ccc-57ca-ec77b23b8f20    SSN: 999-48-1523\nAddress: 685 Stiedemann Haven Apt 31, Stoughton, MA 00000    Phone: 555-701-2908\nAttending: Dr. Margrett Davis\n\n2025-04-07\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nDaniell is a 34 year-old nonhispanic asian female. Patient has a history of eclampsia in pregnancy (disorder), medication review due (situation), victim of intimate partner abuse (finding), normal pregnancy (finding), fever (finding), blighted ovum (disorder), homeless (finding), limited social contact (finding), not in labor force (finding), reports of violence in the environment (finding), full-time employment (finding), miscarriage in first trimester (disorder), anemia (disorder), gingivitis (disorder), suspected disease caused by severe acute respiratory coronavirus 2 (situation), disease caused by severe acute respiratory syndrome coronavirus 2 (disorder), social isolation (finding), stress (finding).\n\n# Social History\nPatient is single. Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient has a high school education.\nPatient currently has Humana.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\n21 day ethinyl estradiol 0.000625 mg/hr / etonogestrel 0.005 mg/hr vaginal system [nuvaring]; abuse-deterrent 12 hr oxycodone hydrochloride 10 mg extended release oral tablet [oxycontin]; tramadol hydrochloride 50 mg oral tablet; 1 ml medroxyprogesterone acetate 150 mg/ml injection; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with normal pregnancy (finding). \n\n\n## Plan\n\nThe following procedures were conducted:\n- standard pregnancy test (procedure)\n- ultrasound scan for fetal viability (procedure)\n- evaluation of uterine fundal height (procedure)\n- auscultation of the fetal heart (procedure)\n- blood group typing (procedure)\n- hemogram, automated, with red blood cells, white blood cells, hemoglobin, hematocrit, indices, platelet count, and manual white blood cell differential (procedure)\n- hepatitis b surface antigen measurement (procedure)\n- human immunodeficiency virus antigen test (procedure)\n- chlamydia antigen test (procedure)\n- gonorrhea infection titer test (procedure)\n- syphilis infectious titer test (procedure)\n- urine culture (procedure)\n- cytopathology procedure, preparation of smear, genital source (procedure)\n- urine screening test for diabetes (procedure)\n- hepatitis c antibody, confirmatory test (procedure)\n- rubella screening test (procedure)\n- measurement of varicella-zoster virus antibody (procedure)\n- skin test for tuberculosis, tine test (procedure)\n- urinalysis, protein, qualitative (procedure)\n- physical examination procedure (procedure)\nThe patient was placed on a careplan:\n- routine antenatal care (regime/therapy)"
+ },
+ {
+  "patient_id": "4ecd0e49-cbdb-31b8-06ae-258290d6c788",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Danyell Waelchi",
+   "DATE_NAISSANCE": "1971-07-13",
+   "SSN": "999-92-4401",
+   "MRN": "4ecd0e49-cbdb-31b8-06ae-258290d6c788",
+   "TELEPHONE": "555-203-1025",
+   "ADRESSE": "835 Zemlak Branch",
+   "VILLE": "Weymouth",
+   "CODE_POSTAL": "02191",
+   "MEDECIN": "Manuela Rendón"
+  },
+  "texte": "Fitchburg Outpatient Clinic\nPROGRESS NOTE\nPatient: Danyell Waelchi    DOB: 1971-07-13    Sex: female\nMRN: 4ecd0e49-cbdb-31b8-06ae-258290d6c788    SSN: 999-92-4401\nAddress: 835 Zemlak Branch, Weymouth, MA 02191    Phone: 555-203-1025\nAttending: Dr. Manuela Rendón\n\n2020-09-15\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nDanyell Siu is a 49 year-old nonhispanic hawaiian female. Patient has a history of acute bronchitis (disorder), sprain (morphologic abnormality), medication review due (situation), not in labor force (finding), full-time employment (finding), sprain of ankle (disorder), stress (finding).\n\n# Social History\nPatient is married. Patient quit smoking at age 21.\n Patient identifies as heterosexual.\n\nPatient comes from a high socioeconomic background.\n Patient is a college graduate.\nPatient currently has Medicare.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nacetaminophen 325 mg oral tablet; albuterol 5 mg/ml inhalation solution; acetaminophen 300 mg / codeine phosphate 15 mg oral tablet; ibuprofen 200 mg oral tablet; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\n\n\n\n## Plan\n\nThe following procedures were conducted:\n- removal of endotracheal tube (procedure)\n- electrocardiographic procedure (procedure)\n- plain x-ray of chest (procedure)\n- transfusion of packed red blood cells (procedure)\n- transfusion of fresh frozen plasma (procedure)\n- electrocardiographic procedure (procedure)\n- plain x-ray of chest (procedure)\n- transfusion of packed red blood cells (procedure)\n- electrocardiographic procedure (procedure)\n- plain x-ray of chest (procedure)\n- transfusion of packed red blood cells (procedure)\n- electrocardiographic procedure (procedure)\n- plain x-ray of chest (procedure)\n- transfusion of packed red blood cells (procedure)\n- discharge to ward (procedure)\nThe following lab reports were completed:\n- cbc panel - blood by automated count\n- comprehensive metabolic 2000 panel - serum or plasma\n- pt panel - platelet poor plasma by coagulation assay\n- gas panel - arterial blood\n- lipid panel with direct ldl - serum or plasma\n- cbc panel - blood by automated count\n- comprehensive metabolic 2000 panel - serum or plasma\n- pt panel - platelet poor plasma by coagulation assay\n- gas panel - arterial blood\n- lipid panel with direct ldl - serum or plasma\n- cbc panel - blood by automated count\n- comprehensive metabolic 2000 panel - serum or plasma\n- pt panel - platelet poor plasma by coagulation assay\n- gas panel - arterial blood\n- lipid panel with direct ldl - serum or plasma\n- cbc panel - blood by automated count\n- comprehensive metabolic 2000 panel - serum or plasma\n- pt panel - platelet poor plasma by coagulation assay\n- gas panel - arterial blood\n- lipid panel with direct ldl - serum or plasma\n- cbc panel - blood by automated count\n- comprehensive metabolic 2000 panel - serum or plasma\n- pt panel - platelet poor plasma by coagulation assay\n- gas panel - arterial blood\n- lipid panel with direct ldl - serum or plasma\n- cbc panel - blood by automated count\n- comprehensive metabolic 2000 panel - serum or plasma\n- pt panel - platelet poor plasma by coagulation assay\n- gas panel - arterial blood\n- lipid panel with direct ldl - serum or plasma\n- cbc panel - blood by automated count\n- comprehensive metabolic 2000 panel - serum or plasma\n- pt panel - platelet poor plasma by coagulation assay\n- gas panel - arterial blood\n- lipid panel with direct ldl - serum or plasma\n- cbc panel - blood by automated count\n- comprehensive metabolic 2000 panel - serum or plasma\n- pt panel - platelet poor plasma by coagulation assay\n- gas panel - arterial blood\n- lipid panel with direct ldl - serum or plasma"
+ },
+ {
+  "patient_id": "3f1cdc02-cefc-7d35-e532-d1db16745688",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Darcey Greenholt",
+   "DATE_NAISSANCE": "1977-03-07",
+   "SSN": "999-97-7427",
+   "MRN": "3f1cdc02-cefc-7d35-e532-d1db16745688",
+   "TELEPHONE": "555-687-6424",
+   "ADRESSE": "1074 Wilderman Annex",
+   "VILLE": "South Hadley",
+   "CODE_POSTAL": "00000",
+   "MEDECIN": "Bennett Hartmann"
+  },
+  "texte": "HOLYOKE HEALTH CENTER INC\nPROGRESS NOTE\nPatient: Darcey Greenholt    DOB: 1977-03-07    Sex: female\nMRN: 3f1cdc02-cefc-7d35-e532-d1db16745688    SSN: 999-97-7427\nAddress: 1074 Wilderman Annex, South Hadley, MA 00000    Phone: 555-687-6424\nAttending: Dr. Bennett Hartmann\n\n2025-09-22\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nDarcey Justin is a 48 year-old nonhispanic white female. Patient has a history of sprain (morphologic abnormality), medication review due (situation), sprain of wrist (disorder), victim of intimate partner abuse (finding), viral sinusitis (disorder), otitis media (disorder), part-time employment (finding), limited social contact (finding), full-time employment (finding), dental filling lost (finding), acute infective cystitis (disorder), gingivitis (disorder), stress (finding), social isolation (finding).\n\n# Social History\nPatient is single. Patient quit smoking at age 18.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient has completed some college courses.\nPatient currently has Medicare.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nacetaminophen 325 mg oral tablet; albuterol 5 mg/ml inhalation solution; etonogestrel 68 mg drug implant; cefuroxime 250 mg oral tablet; amoxicillin 500 mg / clavulanate 125 mg oral tablet; {28 (norethindrone 0.35 mg oral tablet) } pack [errin 28 day]; {28 (norethindrone 0.35 mg oral tablet) } pack [jolivette 28 day]; levonorgestrel 0.000833 mg/hr intrauterine system [mirena]; {28 (norethindrone 0.35 mg oral tablet) } pack [camila 28 day]; 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler; naproxen sodium 220 mg oral tablet; levonorgestrel 0.000813 mg/hr intrauterine system [liletta]\n\n# Assessment and Plan\nPatient is presenting with medication review due (situation), unemployed (finding), stress (finding). \n\n\n## Plan\nPatient was given the following immunizations: influenza, split virus, trivalent, pf. \nThe following procedures were conducted:\n- spirometry (procedure)\n- pulmonary rehabilitation (regime/therapy)\n- assessment of health and social care needs (procedure)\n- assessment of anxiety (procedure)\n- screening for domestic abuse (procedure)\n- depression screening (procedure)\n- depression screening (procedure)\n- assessment of substance use (procedure)\n- assessment using alcohol use disorders identification test - consumption (procedure)\nThe following lab reports were completed:\n- basic metabolic panel - blood\n- lipid panel with direct ldl - serum or plasma\n- generalized anxiety disorder 7 item (gad-7)\n- humiliation, afraid, rape, and kick questionnaire [hark]\n- patient health questionnaire 2 item (phq-2) [reported]\n- alcohol use disorder identification test - consumption [audit-c]\nThe patient was prescribed the following medications:\n- albuterol 5 mg/ml inhalation solution\n- 60 actuat fluticasone propionate 0.25 mg/actuat / salmeterol 0.05 mg/actuat dry powder inhaler"
+ },
+ {
+  "patient_id": "b177c33a-b882-ad97-1865-1803f643116a",
+  "sexe": "male",
+  "pii": {
+   "PATIENT": "Darin Brakus",
+   "DATE_NAISSANCE": "2000-04-03",
+   "SSN": "999-71-4033",
+   "MRN": "b177c33a-b882-ad97-1865-1803f643116a",
+   "TELEPHONE": "555-420-2731",
+   "ADRESSE": "1023 Klocko Extension",
+   "VILLE": "Stow",
+   "CODE_POSTAL": "00000",
+   "MEDECIN": "Cari Kohler"
+  },
+  "texte": "DR. HE'S PRIMARY CARE FOR ADULTS INC\nPROGRESS NOTE\nPatient: Darin Brakus    DOB: 2000-04-03    Sex: male\nMRN: b177c33a-b882-ad97-1865-1803f643116a    SSN: 999-71-4033\nAddress: 1023 Klocko Extension, Stow, MA 00000    Phone: 555-420-2731\nAttending: Dr. Cari Kohler\n\n2026-07-13\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nDarin is a 26 year-old nonhispanic white male. Patient has a history of streptococcal sore throat (disorder), acute bronchitis (disorder), medication review due (situation), acute viral pharyngitis (disorder), gingivitis (disorder), stress (finding), social isolation (finding).\n\n# Social History\n Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient is a college graduate.\nPatient currently has Humana.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nacetaminophen 325 mg oral tablet; abuse-deterrent 12 hr oxycodone hydrochloride 10 mg extended release oral tablet [oxycontin]; penicillin v potassium 500 mg oral tablet; tramadol hydrochloride 50 mg oral tablet; acetaminophen 300 mg / codeine phosphate 15 mg oral tablet; 72 hr fentanyl 0.025 mg/hr transdermal system; 12 hr hydrocodone bitartrate 10 mg extended release oral capsule; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with gingivitis (disorder). \n\n\n## Plan\nPatient was given the following immunizations: influenza, split virus, trivalent, pf. \nThe following procedures were conducted:\n- assessment of health and social care needs (procedure)\n- assessment of anxiety (procedure)\n- screening for domestic abuse (procedure)\n- depression screening (procedure)\n- depression screening (procedure)\n- assessment of substance use (procedure)\n- screening for drug abuse (procedure)\n- patient referral for dental care (procedure)\nThe following lab reports were completed:\n- cbc panel - blood by automated count\n- generalized anxiety disorder 7 item (gad-7)\n- humiliation, afraid, rape, and kick questionnaire [hark]\n- patient health questionnaire 2 item (phq-2) [reported]\n- drug abuse screening test-10 [dast-10]\nThe patient was prescribed the following medications:\n- acetaminophen 300 mg / codeine phosphate 15 mg oral tablet\n- abuse-deterrent 12 hr oxycodone hydrochloride 10 mg extended release oral tablet [oxycontin]\n- 72 hr fentanyl 0.025 mg/hr transdermal system\n- tramadol hydrochloride 50 mg oral tablet\n- 12 hr hydrocodone bitartrate 10 mg extended release oral capsule"
+ },
+ {
+  "patient_id": "ec084d82-e517-88af-cc1d-a0881be0f970",
+  "sexe": "male",
+  "pii": {
+   "PATIENT": "Delmer Ortiz",
+   "DATE_NAISSANCE": "1973-01-26",
+   "SSN": "999-78-1816",
+   "MRN": "ec084d82-e517-88af-cc1d-a0881be0f970",
+   "TELEPHONE": "555-218-4799",
+   "ADRESSE": "693 Pouros Wall Apt 1",
+   "VILLE": "Teaticket",
+   "CODE_POSTAL": "02536",
+   "MEDECIN": "Bea Daniel"
+  },
+  "texte": "MARTHA'S VINEYARD HOSPITAL INC\nPROGRESS NOTE\nPatient: Delmer Ortiz    DOB: 1973-01-26    Sex: male\nMRN: ec084d82-e517-88af-cc1d-a0881be0f970    SSN: 999-78-1816\nAddress: 693 Pouros Wall Apt 1, Teaticket, MA 02536    Phone: 555-218-4799\nAttending: Dr. Bea Daniel\n\n2021-03-05\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nDelmer is a 48 year-old nonhispanic white male. Patient has a history of part-time employment (finding), medication review due (situation), full-time employment (finding), viral sinusitis (disorder), victim of intimate partner abuse (finding), gingivitis (disorder), stress (finding).\n\n# Social History\nPatient is married. Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient has a high school education.\nPatient currently has Cigna Health.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nsodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with gingival disease (disorder), primary dental caries (disorder). \n\n\n## Plan\n\nThe following procedures were conducted:\n- dental consultation and report (procedure)\n- dental care (regime/therapy)\n- removal of supragingival plaque and calculus from all teeth using dental instrument (procedure)\n- removal of subgingival plaque and calculus from all teeth using dental instrument (procedure)\n- dental plain x-ray bitewing (procedure)\n- examination of gingivae (procedure)\n- dental surgical procedure (procedure)\n- dental application of desensitizing medicament (procedure)\n- gingivectomy or gingivoplasty, per tooth (procedure)\n- postoperative care for dental procedure (regime/therapy)\n- application of composite dental filling material to dentin of tooth following fracture of tooth (procedure)\n- dental fluoride treatment (procedure)\n- oral health education (procedure)\nThe patient was prescribed the following medications:\n- sodium fluoride 0.0272 mg/mg oral gel"
+ },
+ {
+  "patient_id": "7fc5a38e-c3da-07c2-2015-d9802d305f0a",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Denisha Kuphal",
+   "DATE_NAISSANCE": "1950-04-08",
+   "SSN": "999-72-2545",
+   "MRN": "7fc5a38e-c3da-07c2-2015-d9802d305f0a",
+   "TELEPHONE": "555-630-5585",
+   "ADRESSE": "431 Crist Boulevard",
+   "VILLE": "Holyoke",
+   "CODE_POSTAL": "01040",
+   "MEDECIN": "Thomas Strosin"
+  },
+  "texte": "MONT MARIE REHABILITATION & HEALTHCARE CENTER\nPROGRESS NOTE\nPatient: Denisha Kuphal    DOB: 1950-04-08    Sex: female\nMRN: 7fc5a38e-c3da-07c2-2015-d9802d305f0a    SSN: 999-72-2545\nAddress: 431 Crist Boulevard, Holyoke, MA 01040    Phone: 555-630-5585\nAttending: Dr. Thomas Strosin\n\n2025-04-12\n\n# Chief Complaint\n- Blurred Vision\n\n\n# History of Present Illness\nDenisha Anita is a 75 year-old nonhispanic white female. Patient has a history of gingival disease (disorder), overdose (disorder), streptococcal sore throat (disorder), medication review due (situation), unemployed (finding), acute viral pharyngitis (disorder), victim of intimate partner abuse (finding), viral sinusitis (disorder), fractured dental filling (finding), part-time employment (finding), limited social contact (finding), primary dental caries (disorder), full-time employment (finding), gingivitis (disorder), social isolation (finding), stress (finding).\n\n# Social History\nPatient is single. Patient has a documented history of opioid addiction. Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a low socioeconomic background.\n Patient has a high school education.\nPatient currently has Dual Eligible.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nlisinopril 10 mg oral tablet; tropicamide 5 mg/ml ophthalmic solution; hydrochlorothiazide 25 mg oral tablet; penicillin v potassium 500 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\n\n\n\n## Plan\n\nThe following procedures were conducted:\n- history and physical examination (procedure)\n- initial patient assessment (procedure)\n- development of individualized plan of care (procedure)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- occupational therapy (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- speech and language therapy regime (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- physical therapy procedure (regime/therapy)\n- professional / ancillary services care (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- speech and language therapy regime (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- physical therapy procedure (regime/therapy)\n- professional / ancillary services care (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- pre-discharge assessment (procedure)\n- discharge from hospital (procedure)"
+ },
+ {
+  "patient_id": "b3d9fe5d-04e1-dc3e-ceef-0719f236eff6",
+  "sexe": "male",
+  "pii": {
+   "PATIENT": "Ed Mohr",
+   "DATE_NAISSANCE": "2003-02-20",
+   "SSN": "999-90-3975",
+   "MRN": "b3d9fe5d-04e1-dc3e-ceef-0719f236eff6",
+   "TELEPHONE": "555-446-8173",
+   "ADRESSE": "938 Schimmel Village Suite 29",
+   "VILLE": "Fall River",
+   "CODE_POSTAL": "02790",
+   "MEDECIN": "Adela King"
+  },
+  "texte": "FAMILY SERVICE ASSOCIATION OF GREATER FALL RIVER INC\nPROGRESS NOTE\nPatient: Ed Mohr    DOB: 2003-02-20    Sex: male\nMRN: b3d9fe5d-04e1-dc3e-ceef-0719f236eff6    SSN: 999-90-3975\nAddress: 938 Schimmel Village Suite 29, Fall River, MA 02790    Phone: 555-446-8173\nAttending: Dr. Adela King\n\n2025-04-24\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nEd is a 22 year-old nonhispanic white male. Patient has a history of acute bronchitis (disorder), risk activity involvement (finding), medication review due (situation), limited social contact (finding), full-time employment (finding), gingivitis (disorder), stress (finding).\n\n# Social History\n Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a low socioeconomic background.\n Patient did not finish high school.\nPatient currently has Medicaid.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nacetaminophen 325 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with medication review due (situation). \n\n\n## Plan\nPatient was given the following immunizations: influenza, split virus, trivalent, pf, td (adult), 5 lf tetanus toxoid, preservative free, adsorbed, hep b, adult, meningococcal mcv4p. \nThe following procedures were conducted:\n- assessment of health and social care needs (procedure)\n- assessment of anxiety (procedure)\n- depression screening (procedure)\n- depression screening (procedure)\n- assessment of substance use (procedure)\n- screening for drug abuse (procedure)\nThe following lab reports were completed:\n- cbc panel - blood by automated count\n- generalized anxiety disorder 7 item (gad-7)\n- patient health questionnaire 2 item (phq-2) [reported]\n- drug abuse screening test-10 [dast-10]"
+ },
+ {
+  "patient_id": "24063415-797f-9c67-c94c-067c97345275",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Eilene Block",
+   "DATE_NAISSANCE": "2000-06-11",
+   "SSN": "999-32-9422",
+   "MRN": "24063415-797f-9c67-c94c-067c97345275",
+   "TELEPHONE": "555-104-7077",
+   "ADRESSE": "471 Pollich Mall",
+   "VILLE": "Worcester",
+   "CODE_POSTAL": "01609",
+   "MEDECIN": "Sang Blanda"
+  },
+  "texte": "WORCESTER RECOVERY CENTER AND HOSPITAL\nPROGRESS NOTE\nPatient: Eilene Block    DOB: 2000-06-11    Sex: female\nMRN: 24063415-797f-9c67-c94c-067c97345275    SSN: 999-32-9422\nAddress: 471 Pollich Mall, Worcester, MA 01609    Phone: 555-104-7077\nAttending: Dr. Sang Blanda\n\n2020-07-28\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nEilene is a 20 year-old nonhispanic white female. Patient has a history of child attention deficit disorder (disorder), medication review due (situation), not in labor force (finding), acute infective cystitis (disorder), viral sinusitis (disorder), suspected disease caused by severe acute respiratory coronavirus 2 (situation), stress (finding).\n\n# Social History\n Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient has completed some college courses.\nPatient currently has Anthem.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\n{7 (ethinyl estradiol 0.035 mg / norgestimate 0.18 mg oral tablet) / 7 (ethinyl estradiol 0.035 mg / norgestimate 0.215 mg oral tablet) / 7 (ethinyl estradiol 0.035 mg / norgestimate 0.25 mg oral tablet) / 7 (inert ingredients 1 mg oral tablet) } pack [trinessa 28 day]; cephalexin 500 mg oral tablet; {21 (ethinyl estradiol 0.03 mg / levonorgestrel 0.15 mg oral tablet) / 7 (inert ingredients 1 mg oral tablet) } pack [levora 0.15/30 28 day]; 1 ml medroxyprogesterone acetate 150 mg/ml injection\n\n# Assessment and Plan\nPatient is presenting with pneumonia (disorder), hypoxemia (disorder), respiratory distress (finding). \n\n\n## Plan\n\nThe following procedures were conducted:\n- plain x-ray of chest (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\n- oxygen administration by mask (procedure)\n- placing subject in prone position (procedure)\nThe following lab reports were completed:\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- iron panel - serum or plasma\n- troponin i.cardiac panel - serum or plasma by high sensitivity method\n- pt panel - platelet poor plasma by coagulation assay\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- iron panel - serum or plasma\n- troponin i.cardiac panel - serum or plasma by high sensitivity method\n- pt panel - platelet poor plasma by coagulation assay\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- iron panel - serum or plasma\n- troponin i.cardiac panel - serum or plasma by high sensitivity method\n- pt panel - platelet poor plasma by coagulation assay\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- iron panel - serum or plasma\n- troponin i.cardiac panel - serum or plasma by high sensitivity method\n- pt panel - platelet poor plasma by coagulation assay\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- iron panel - serum or plasma\n- troponin i.cardiac panel - serum or plasma by high sensitivity method\n- pt panel - platelet poor plasma by coagulation assay\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- iron panel - serum or plasma\n- troponin i.cardiac panel - serum or plasma by high sensitivity method\n- pt panel - platelet poor plasma by coagulation assay\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- cbc panel - blood by automated count\n- auto differential panel - blood\n- comprehensive metabolic 2000 panel - serum or plasma\n- iron panel - serum or plasma\n- troponin i.cardiac panel - serum or plasma by high sensitivity method\n- pt panel - platelet poor plasma by coagulation assay\nThe patient was prescribed the following medications:\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- nda020503 200 actuat albuterol 0.09 mg/actuat metered dose inhaler\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- nda020503 200 actuat albuterol 0.09 mg/actuat metered dose inhaler\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- nda020503 200 actuat albuterol 0.09 mg/actuat metered dose inhaler\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- nda020503 200 actuat albuterol 0.09 mg/actuat metered dose inhaler\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- nda020503 200 actuat albuterol 0.09 mg/actuat metered dose inhaler\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- nda020503 200 actuat albuterol 0.09 mg/actuat metered dose inhaler\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- nda020503 200 actuat albuterol 0.09 mg/actuat metered dose inhaler\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- nda020503 200 actuat albuterol 0.09 mg/actuat metered dose inhaler\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- nda020503 200 actuat albuterol 0.09 mg/actuat metered dose inhaler\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- nda020503 200 actuat albuterol 0.09 mg/actuat metered dose inhaler\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- nda020503 200 actuat albuterol 0.09 mg/actuat metered dose inhaler\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- nda020503 200 actuat albuterol 0.09 mg/actuat metered dose inhaler\n- acetaminophen 500 mg oral tablet\n- 0.4 ml enoxaparin sodium 100 mg/ml prefilled syringe\n- nda020503 200 actuat albuterol 0.09 mg/actuat metered dose inhaler\n- acetaminophen 500 mg oral tablet"
+ },
+ {
+  "patient_id": "e5863ab8-893d-3e6b-3da4-b903413869e2",
+  "sexe": "male",
+  "pii": {
+   "PATIENT": "Eliseo Kihn",
+   "DATE_NAISSANCE": "1999-06-10",
+   "SSN": "999-13-1831",
+   "MRN": "e5863ab8-893d-3e6b-3da4-b903413869e2",
+   "TELEPHONE": "555-933-4592",
+   "ADRESSE": "1042 Boehm Annex",
+   "VILLE": "South Hadley",
+   "CODE_POSTAL": "00000",
+   "MEDECIN": "Bennett Hartmann"
+  },
+  "texte": "HOLYOKE HEALTH CENTER INC\nPROGRESS NOTE\nPatient: Eliseo Kihn    DOB: 1999-06-10    Sex: male\nMRN: e5863ab8-893d-3e6b-3da4-b903413869e2    SSN: 999-13-1831\nAddress: 1042 Boehm Annex, South Hadley, MA 00000    Phone: 555-933-4592\nAttending: Dr. Bennett Hartmann\n\n2021-08-12\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nEliseo is a 22 year-old nonhispanic white male. Patient has a history of gingival disease (disorder), medication review due (situation), full-time employment (finding), acute viral pharyngitis (disorder), victim of intimate partner abuse (finding), gingivitis (disorder), social isolation (finding), stress (finding).\n\n# Social History\n Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient has completed some college courses.\nPatient currently has UnitedHealthcare.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nNo Active Medications.\n\n# Assessment and Plan\nPatient is presenting with social isolation (finding). \n\n\n## Plan\nPatient was given the following immunizations: influenza, split virus, trivalent, pf, td (adult), 5 lf tetanus toxoid, preservative free, adsorbed, hep b, adult, meningococcal mcv4p. \nThe following procedures were conducted:\n- assessment of health and social care needs (procedure)\n- assessment of anxiety (procedure)\n- depression screening (procedure)\n- depression screening (procedure)\n- patient referral for dental care (procedure)\nThe following lab reports were completed:\n- cbc panel - blood by automated count\n- generalized anxiety disorder 7 item (gad-7)\n- patient health questionnaire 2 item (phq-2) [reported]"
+ },
+ {
+  "patient_id": "51bda7a1-3926-7bdb-b251-d602cf6ed79e",
+  "sexe": "male",
+  "pii": {
+   "PATIENT": "Ellsworth Hayes",
+   "DATE_NAISSANCE": "1973-01-06",
+   "SSN": "999-67-9276",
+   "MRN": "51bda7a1-3926-7bdb-b251-d602cf6ed79e",
+   "TELEPHONE": "555-194-8229",
+   "ADRESSE": "364 Dicki Common",
+   "VILLE": "Middleborough",
+   "CODE_POSTAL": "00000",
+   "MEDECIN": "Lynn Rodriguez"
+  },
+  "texte": "HANNAH B G SHAW HOME\nPROGRESS NOTE\nPatient: Ellsworth Hayes    DOB: 1973-01-06    Sex: male\nMRN: 51bda7a1-3926-7bdb-b251-d602cf6ed79e    SSN: 999-67-9276\nAddress: 364 Dicki Common, Middleborough, MA 00000    Phone: 555-194-8229\nAttending: Dr. Lynn Rodriguez\n\n2026-02-23\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nEllsworth is a 53 year-old nonhispanic white male. Patient has a history of gingival disease (disorder), sprain (morphologic abnormality), medication review due (situation), unemployed (finding), sprain of ankle (disorder), victim of intimate partner abuse (finding), part-time employment (finding), limited social contact (finding), unhealthy alcohol drinking behavior (finding), primary dental caries (disorder), full-time employment (finding), stress (finding), social isolation (finding).\n\n# Social History\nPatient is single. Patient has never smoked.\n Patient identifies as homosexual.\n\nPatient comes from a middle socioeconomic background.\n Patient has a high school education.\nPatient currently has Aetna.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\nnaproxen sodium 220 mg oral tablet; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\n\n\n\n## Plan\n\nThe following procedures were conducted:\n- history and physical examination (procedure)\n- initial patient assessment (procedure)\n- development of individualized plan of care (procedure)\n- nursing care/supplementary surveillance (regime/therapy)\n- occupational therapy (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- occupational therapy (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- professional / ancillary services care (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- professional / ancillary services care (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- professional / ancillary services care (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- professional / ancillary services care (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- physical therapy procedure (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- professional / ancillary services care (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- physical therapy procedure (regime/therapy)\n- professional / ancillary services care (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- nursing care/supplementary surveillance (regime/therapy)\n- physical therapy procedure (regime/therapy)\n- pre-discharge assessment (procedure)\n- discharge from hospital (procedure)"
+ },
+ {
+  "patient_id": "242e8aeb-c9c2-0594-a1f3-15ce7014698e",
+  "sexe": "female",
+  "pii": {
+   "PATIENT": "Evia Kuphal",
+   "DATE_NAISSANCE": "1998-06-26",
+   "SSN": "999-90-5604",
+   "MRN": "242e8aeb-c9c2-0594-a1f3-15ce7014698e",
+   "TELEPHONE": "555-897-5211",
+   "ADRESSE": "428 Hermiston Crossroad",
+   "VILLE": "Fitchburg",
+   "CODE_POSTAL": "01420",
+   "MEDECIN": "Mateo Barajas"
+  },
+  "texte": "COMMUNITY HEALTH CONNECTIONS, INC\nPROGRESS NOTE\nPatient: Evia Kuphal    DOB: 1998-06-26    Sex: female\nMRN: 242e8aeb-c9c2-0594-a1f3-15ce7014698e    SSN: 999-90-5604\nAddress: 428 Hermiston Crossroad, Fitchburg, MA 01420    Phone: 555-897-5211\nAttending: Dr. Mateo Barajas\n\n2021-09-17\n\n# Chief Complaint\nNo complaints.\n\n# History of Present Illness\nEvia Rocio is a 23 year-old nonhispanic white female. Patient has a history of acute bacterial sinusitis (disorder), eclampsia in pregnancy (disorder), medication review due (situation), viral sinusitis (disorder), misuses drugs (finding), complete miscarriage (disorder), normal pregnancy (finding), part-time employment (finding), limited social contact (finding), full-time employment (finding), miscarriage in first trimester (disorder), gingivitis (disorder), stress (finding).\n\n# Social History\nPatient is married. Patient has never smoked.\n Patient identifies as heterosexual.\n\nPatient comes from a high socioeconomic background.\n Patient has completed some college courses.\nPatient currently has NO INSURANCE.\n\n# Allergies\nNo Known Allergies.\n\n# Medications\n{7 (ethinyl estradiol 0.035 mg / norgestimate 0.18 mg oral tablet) / 7 (ethinyl estradiol 0.035 mg / norgestimate 0.215 mg oral tablet) / 7 (ethinyl estradiol 0.035 mg / norgestimate 0.25 mg oral tablet) / 7 (inert ingredients 1 mg oral tablet) } pack [trinessa 28 day]; acetaminophen 325 mg / oxycodone hydrochloride 10 mg oral tablet [percocet]; {7 (ethinyl estradiol 0.01 mg oral tablet) / 84 (ethinyl estradiol 0.03 mg / levonorgestrel 0.15 mg oral tablet) } pack [seasonique]; {21 (ethinyl estradiol 0.03 mg / levonorgestrel 0.15 mg oral tablet) / 7 (inert ingredients 1 mg oral tablet) } pack [levora 0.15/30 28 day]; acetaminophen 325 mg oral tablet [tylenol]; sodium fluoride 0.0272 mg/mg oral gel\n\n# Assessment and Plan\nPatient is presenting with medication review due (situation), not in labor force (finding). \n\n\n## Plan\nPatient was given the following immunizations: influenza, split virus, trivalent, pf. \nThe following procedures were conducted:\n- medication reconciliation (procedure)\n- assessment of health and social care needs (procedure)\n- assessment of anxiety (procedure)\n- depression screening (procedure)\n- depression screening (procedure)\n- depression screening using patient health questionnaire nine item score (procedure)\n- assessment of substance use (procedure)\n- assessment using alcohol use disorders identification test - consumption (procedure)\n- patient referral for dental care (procedure)\nThe following lab reports were completed:\n- generalized anxiety disorder 7 item (gad-7)\n- patient health questionnaire 2 item (phq-2) [reported]\n- phq-9 quick depression assessment panel [reported.phq]\n- alcohol use disorder identification test - consumption [audit-c]\nThe patient was prescribed the following medications:\n- acetaminophen 325 mg / oxycodone hydrochloride 10 mg oral tablet [percocet]\n- acetaminophen 325 mg oral tablet [tylenol]"
+ }
+]
